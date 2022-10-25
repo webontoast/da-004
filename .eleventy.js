@@ -52,6 +52,34 @@ module.exports = function(config) {
       .slice(0, site.maxPostsPerPage);
   });
 
+  // Custom Projects collections
+  const liveProjects = project => project.date <= now && !project.data.draft;
+  config.addCollection('projects', collection => {
+    return [
+      ...collection.getFilteredByGlob('./src/projects/*.md').filter(liveProjects)
+    ].reverse();
+  });
+
+  // config.addCollection('postFeed', collection => {
+  //   return [...collection.getFilteredByGlob('./src/projects/*.md').filter(liveProjects)]
+  //     .reverse()
+  //     .slice(0, site.maxPostsPerPage);
+  // });
+
+  // Custom Journals collections
+  const liveJournals = journal => journal.date <= now && !journal.data.draft;
+  config.addCollection('journals', collection => {
+    return [
+      ...collection.getFilteredByGlob('./src/journals/*.md').filter(liveJournals)
+    ].reverse();
+  });
+
+  // config.addCollection('postFeed', collection => {
+  //   return [...collection.getFilteredByGlob('./src/projects/*.md').filter(liveProjects)]
+  //     .reverse()
+  //     .slice(0, site.maxPostsPerPage);
+  // });
+
   // Plugins
   config.addPlugin(rssPlugin);
   config.addPlugin(syntaxHighlight);

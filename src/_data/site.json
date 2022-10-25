@@ -1,13 +1,13 @@
 {
   "showThemeCredit": true,
-  "name": "Hylia Starter Kit",
-  "shortDesc": "Hylia is a lightweight Eleventy starter kit to help you to create your own blog or personal website.",
-  "url": "https://hylia.website",
-  "authorEmail": "hi@piccalil.li",
-  "authorHandle": "@piccalilli_",
-  "authorName": "Andy Bell",
+  "name": "Douglas Architects",
+  "shortDesc": "Douglas Architects Limited is an RIBA Chartered Practice.",
+  "url": "https://douglasarchitects.co.uk/",
+  "authorEmail": "hello@infuselab.com",
+  "authorHandle": "@infuselab",
+  "authorName": "Infuse Lab",
   "enableThirdPartyComments": false,
-  "maxPostsPerPage": 5,
-  "paymentPointer": "$ilp.uphold.com/MggmnFEyQqhk",
-  "faviconPath": "/images/favicon.png"
+  "paymentPointer": "dd",
+  "faviconPath": "/images/favicon.png",
+  "maxPostsPerPage": 5
 }

@@ -53,6 +53,37 @@ collections:
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "Tags", name: "tags", widget: "list", allow_add: true}
       - {label: "Body", name: "body", widget: "markdown"}
+  - name: "projects"
+    label: "Projects"
+    folder: "src/projects"
+    slug: "{{slug}}"
+    preview_path: "projects/{{slug}}"
+    create: true
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/project.njk"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Project Description", name: "projectDesc", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Tags", name: "tags", widget: "list", allow_add: true}
+      - {label: "Featured Image", name: "featuredImage", widget: "image"}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "SEO Meta Title", name: "metaTitle", widget: "string", required: false}
+      - {label: "SEO Meta Description", name: "metaDesc", widget: "string", required: false}
+  - name: "journals"
+    label: "Journals"
+    folder: "src/journals"
+    slug: "{{slug}}"
+    preview_path: "journals/{{slug}}"
+    create: true
+    fields:
+      - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/journal.njk"}
+      - {label: "Title", name: "title", widget: "string"}
+      - {label: "Body", name: "body", widget: "markdown"}
+      - {label: "Tags", name: "tags", widget: "list", allow_add: true}
+      - {label: "Featured Image", name: "featuredImage", widget: "image", required: false}
+      - {label: "Publish Date", name: "date", widget: "datetime"}
+      - {label: "SEO Meta Title", name: "metaTitle", widget: "string", required: false}
+      - {label: "SEO Meta Description", name: "metaDesc", widget: "string", required: false}
   - label: "Globals"
     name: "globals"
     files:

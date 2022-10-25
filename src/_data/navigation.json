@@ -1,17 +1,22 @@
 {
   "items": [
     {
-      "text": "Home",
-      "url": "/",
+      "text": "About",
+      "url": "/about",
       "external": false
     },
     {
-      "text": "GitHub",
-      "url": "https://github.com/andy-piccalilli/hylia",
-      "external": true
+      "text": "Projects",
+      "url": "/projects",
+      "external": false
     },
     {
-      "text": "Example Contact Page",
+      "text": "Journals",
+      "url": "/journals",
+      "external": false
+    },
+    {
+      "text": "Contact",
       "url": "/contact",
       "external": false
     }
