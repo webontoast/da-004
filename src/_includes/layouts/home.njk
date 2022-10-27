@@ -7,20 +7,23 @@
 {% endset %}
 
 {# Main content #}
-{# {% set aboutText = about_text %}
-{% set aboutCTA = about_cta %}
-{% set aboutUrl = about_url %}
-{% set aboutImg = about_img %}
+{% set about = about %}
+{% set aboutText = about.about_text %}
+{% set aboutCTA = about.about_cta %}
+{% set aboutUrl = about.about_url %}
+{% set aboutImg = about.about_img %}
 
-{% set projectsText = projects_text %}
-{% set projectsCTA = projects_cta %}
-{% set projectsUrl = projects_url %}
-{% set projectsImg = projects_img %}
+{% set projects = projects %}
+{% set projectsText = projects.projects_text %}
+{% set projectsCTA = projects.projects_cta %}
+{% set projectsUrl = projects.projects_url %}
+{% set projectsImg = projects.projects_img %}
 
-{% set contactText = contact_text %}
-{% set contactCTA = contact_cta %}
-{% set contactUrl = contact_url %}
-{% set contactImg = contact_img %} #}
+{% set contact = contact %}
+{% set contactText = contact.contact_text %}
+{% set contactCTA = contact.contact_cta %}
+{% set contactUrl = contact.contact_url %}
+{% set contactImg = contact.contact_img %}
 
 {# Post list content #}
 {% set postListHeading = postsHeading %}
@@ -34,8 +37,9 @@
 
 {% block content %}
   <main id="main-content" tabindex="-1">
-    {% include "partials/components/intro.njk" %}
-    {% include "partials/components/post-list.njk" %}
-    {% include "partials/components/pagination.njk" %}
+    {% include "partials/components/home.njk" %}
+    {# {% include "partials/components/intro.njk" %} #}
+    {# {% include "partials/components/post-list.njk" %} #}
+    {# {% include "partials/components/pagination.njk" %} #}
   </main>
 {% endblock %}
