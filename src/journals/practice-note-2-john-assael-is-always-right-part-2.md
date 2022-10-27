@@ -1,0 +1,17 @@
+---
+layout: layouts/journal.njk
+title: "Practice Note 2: John Assael is Always Right (Part 2)"
+tags:
+  - Practice Notes
+featuredImage: /images/fff.png
+date: 2016-01-20T12:44:16.866Z
+---
+I met John Assael at an RIBA evening thing a while ago and when I mentioned my sole practitioner, work from home status and he asked me a question, along the lines of  – what would I do if another office challenged me to a 5 – side football match? This led on to a more pointed comment to the effect that as a sole practitioner, you run a very substantial risk of becoming a strange and perhaps undervalued kind of domestic technician. Of course I chose not to agree at the time, but underneath I knew he had a point. The decision to work as a sole practitioner almost inevitably comes with a decision to work on small-ish domestic projects. And, it is hard to explain, but with this sort of residential work as your mainstay, you really do spend a lot of your time following through other people’s visions for their domestic setting. It’s their house so why wouldn’t they want to tell you how they want it? Indeed, that is at least part of what you are there for.
+
+Now, there is nothing wrong with this set up – except that it is very difficult to express yourself architecturally within it – unless you direct your practice intentions towards the notion that your expression can be through the process as much as, or more than the product. This is where I feel that architects can add value and enjoy their craft. To make the end product the focus of your work you eventually need to work on larger, more complicated projects, and that will probably lead to needing to employ people – or at least regularly working collaboratively with other people.
+
+Employing people, going from a one-man band to two is a big step financially. (I was once the first employee for a one-man band. He vowed never to do it again.) Having been an employer in the past as well I do wonder about the logic of the way in which payment for architectural services works. It seems to be a very un-balanced set up where the architect employer has a fixed set of defined responsibilities for outgoings. However, the income is only as fixed as numerous external influences allow them to be. A client can, at relatively short notice simply delay or cancel a project, they might have a great reason for doing so, but that doesn’t change the effect on cash flow – employees and rent still have to be paid. Or a planner can delay the result of a planning application or pre-application report; this slows down movement from one work stage to the next and so slows down cash flow. These are just two of a vast number of variables that affect the flow of cash from client to architect – but the flow of cash out from the architect remains relatively constant.
+
+To make this set up work, the main choice seems to be between aligning your in-house resources for just below your average turn over and slightly under resource for times of peak work load – or align your in-house resources for something closer to your peak work load and pay staff less overall to account for the down time. For the time being I am staying away from this conundrum and focusing on collaboration with designers and professionals, and this seems to be working. I will eventually take up John Assael’s football challenge, but I will probably field a football collective rather than a regular team. I think it could be a good match.
+
+© Douglas Architects Limited 2016
