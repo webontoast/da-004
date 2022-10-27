@@ -18,12 +18,37 @@ collections:
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/njk.njk"}
           - {label: "Title", name: "title", widget: "string"}
+
+          - label: "About"
+            name: "about"
+            widget: "object"
+            fields:
+              - {label: "Text", name: "about_text", widget: "string", required: false}
+              - {label: "CTA", name: "about_cta", widget: "string", required: false}
+              - {label: "Url", name: "about_url", widget: "string", required: false}
+              - {label: "Image", name: "about_img", widget: "image", required: false}
+          - label: "Projects"
+            name: "projects"
+            widget: "object"
+            fields:
+              - {label: "Text", name: "projects_text", widget: "string", required: false}
+              - {label: "CTA", name: "projects_cta", widget: "string", required: false}
+              - {label: "Url", name: "projects_url", widget: "string", required: false}
+              - {label: "Image", name: "projects_img", widget: "image", required: false}
+          - label: "Contact"
+            name: "contact"
+            widget: "object"
+            fields:
+              - {label: "Text", name: "contact_text", widget: "string", required: false}
+              - {label: "CTA", name: "contact_cta", widget: "string", required: false}
+              - {label: "Url", name: "contact_url", widget: "string", required: false}
+              - {label: "Image", name: "contact_img", widget: "image", required: false}
+          - {label: "Body", name: "body", widget: "markdown", required: false}
+          - {label: "Social Image", name: "socialImage", widget: "image", required: false}
           - {label: "SEO Meta Title", name: "metaTitle", widget: "string", required: false}
           - {label: "SEO Meta Description", name: "metaDesc", widget: "string", required: false}
-          - {label: "Post Feed Heading", name: "postsHeading", widget: "string", default: "Latest posts"}
-          - {label: "Archive Link Text", name: "archiveButtonText", widget: "string", default: "See all posts"}
-          - {label: "Social Image", name: "socialImage", widget: "image", required: false}
-          - {label: "Body", name: "body", widget: "markdown"}
+          - {label: "Post Feed Heading", name: "postsHeading", widget: "string", default: "Latest posts", required: false}
+          - {label: "Archive Link Text", name: "archiveButtonText", widget: "string", default: "See all posts", required: false}
   - name: "generic_pages"
     label: "Generic Pages"
     folder: "src/pages"
