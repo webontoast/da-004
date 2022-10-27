@@ -3,6 +3,7 @@ layout: layouts/journal.njk
 title: Notes on Self Build – You know your are nearly finished when...
 tags:
   - Self Build
+  - Writing
 featuredImage: /images/fff.png
 date: 2019-06-20T12:03:44.334Z
 ---
