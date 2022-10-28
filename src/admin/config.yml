@@ -5,11 +5,12 @@ backend:
 local_backend: true
 # publish_mode: editorial_workflow
 # media_folder: "src/images"
-public_folder: "/images"
+# public_folder: "/images"
 media_library:
-  name: uploadcare
+  name: cloudinary
   config:
-    publicKey: 6be9c8f3cb4039f6f8af
+    cloud_name: dvzwcttpm
+    api_key: 279343436673265
 collections:
   - name: "pages"
     label: "Pages"
