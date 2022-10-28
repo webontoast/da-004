@@ -4,8 +4,14 @@ title: College Cross, Islington
 projectDesc: A basement flat renovated and extended to connect with its garden.
 tags:
   - Houses
+featuredImage:
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666982044/Projects/College%20Cross%2C%20Islington/1-COL-APARTMENT-CollegeCross__o9brbr.jpg
+imageGallery:
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666982044/Projects/College%20Cross%2C%20Islington/2-COL-APARTMENT-CollegeCross_007_17_xxvued.jpg
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666982043/Projects/College%20Cross%2C%20Islington/3-COL-APARTMENT-CollegeCross_003_07_frxuyu.jpg
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666982043/Projects/College%20Cross%2C%20Islington/4-COL-APARTMENT-CollegeCross_005_07_RemovedAndLights_njpic6.jpg
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666982043/Projects/College%20Cross%2C%20Islington/5-COL-APARTMENT-collegeCross_008_13A_lykmvo.jpg
 date: 2022-10-16T16:10:13.298Z
-featuredImage: /images/1-col-apartment-collegecross_.jpeg
 ---
 Completed while working at Douglas and King Architects, we were architects for this refurbishment and extension project on a grade 2 listed building in College Cross in Islington.
 
