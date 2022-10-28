@@ -6,7 +6,7 @@ tags:
   - Houses
   - Office Space
 featuredImage:
-  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666980885/Projects/Cedar%20Clad%20Garden%20Office%20in%20Stoke%20Newington/cedar-clad-garden-studio-hackney-stoke-newington-N16-douglas-architects_thy4qn.jpg
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666980885/Projects/Cedar%20Clad%20Garden%20Office%20in%20Stoke%20Newington/garden-office-hackney-stoke-newington-douglas-architects_kk3st6.jpg
 imageGallery:
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666980885/Projects/Cedar%20Clad%20Garden%20Office%20in%20Stoke%20Newington/garden-studio-hackney-stoke-newington-douglas-architects_nfzdsn.jpg
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666980885/Projects/Cedar%20Clad%20Garden%20Office%20in%20Stoke%20Newington/cedar-clad-garden-studio-hackney-stoke-newington-N16-douglas-architects_thy4qn.jpg
