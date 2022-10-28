@@ -4,7 +4,7 @@ title: Nearly New House in Bury St Edmunds
 projectDesc: Improving the thermal performance of an existing building.
 tags:
   - Houses
-featuredImage: /images/thermal-insulation-suffolk-architecture-e1647611068749.jpeg
+featuredImage: https://ucarecdn.com/e58c5172-e0b8-4884-a688-943d9a2342cf/Thermalinsulationsuffolkarchitecturee1647611068749.jpeg
 date: 2022-10-17T10:51:45.701Z
 ---
 We have taken this project on as our second in-house mini-development where we are substantially renovating and extending the existing house on the site.  Planning permission has been granted and work started on site in July 2020.
