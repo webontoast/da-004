@@ -5,7 +5,17 @@ projectDesc: A bright and airy workspace for an illustrator.
 tags:
   - Houses
   - Office Space
-featuredImage: /images/garden-studio-in-stoke-newington-by-douglas-architects.jpeg
+featuredImage:
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666981464/Projects/Garden%20Workspace%20in%20Hackney/garden-studio-in-stoke-newington-by-douglas-architects_xq4yab.jpg
+hideFeaturedImage: true
+imageGallery:
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666981463/Projects/Garden%20Workspace%20in%20Hackney/architect-stoke-newington_gqhm72.jpg
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666981463/Projects/Garden%20Workspace%20in%20Hackney/Douglas_Architects_Illustrators_Studio_Hackney_04jpg_lc7boa.jpg
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666981463/Projects/Garden%20Workspace%20in%20Hackney/Douglas_Architects_Illustrators_Studio_Hackney_05_boxlcd.jpg
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666981463/Projects/Garden%20Workspace%20in%20Hackney/Douglas_Architects_Illustrators_Studio_in_Hackney_07jpg_nmkbqj.jpg
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666981463/Projects/Garden%20Workspace%20in%20Hackney/Douglas_Architects_Illustrators_Studio_08_pqqadh.jpg
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666981463/Projects/Garden%20Workspace%20in%20Hackney/garden-studio-in-hackney-by-douglas-architects-01_qyzekn.jpg
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666981464/Projects/Garden%20Workspace%20in%20Hackney/illustrators-shed-and-garden-office-studio-in-hackney_c7zwit.jpg
 date: 2022-10-16T17:00:09.360Z
 ---
 Our design for a studio for an illustrator starts with the notion of a creative shed surrounded by trees. The outside is designed to be rough and textured to blend in to its very leafy surroundings, while the inside is all about simplicity and light.
