@@ -4,7 +4,16 @@ title: Extension and renovation to a Victorian terrace
 projectDesc: Close collaboration in Stoke Newington.
 tags:
   - Houses
-featuredImage: /images/allerton-road-architecture-douglas-architects-02.jpeg
+featuredImage:
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666981810/Projects/Extension%20and%20renovation%20to%20a%20Victorian%20terrace/allerton-road-architecture-douglas-architects-02_dwt6o0.jpg
+hideFeaturedImage: true
+imageGallery:
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666981810/Projects/Extension%20and%20renovation%20to%20a%20Victorian%20terrace/glass-extensiopn-allerton-road-04_sgbrhw.jpg
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666981810/Projects/Extension%20and%20renovation%20to%20a%20Victorian%20terrace/allerton-road-architecture-douglas-architects-02_dwt6o0.jpg
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666981809/Projects/Extension%20and%20renovation%20to%20a%20Victorian%20terrace/2-allerton_road_architect_N16_zs3yho.jpg
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666981811/Projects/Extension%20and%20renovation%20to%20a%20Victorian%20terrace/allerton-road-extension-douglas-architects-03_wj76tn.jpg
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666981810/Projects/Extension%20and%20renovation%20to%20a%20Victorian%20terrace/architecture-allerton-road-douglas-architects-01_wqgcxt.jpg
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666981809/Projects/Extension%20and%20renovation%20to%20a%20Victorian%20terrace/douglas-architects-glass-extension-stoke-newington-3_v5akcp.jpg
 date: 2022-10-16T16:38:46.654Z
 ---
 Our project to refurbish, remodel and extend a Victorian terraced house in Allerton Road, Stoke Newington is now finished.
