@@ -22,9 +22,11 @@
         {{ content | safe }}
       </div>
       <div class="inner-wrapper">
-        <figure>
-          <img src="{{ featuredImage }}" alt="{{ title }}">
-        </figure>
+        {% if not hideFeaturedImage %}
+          <figure>
+            <img src="{{ featuredImage }}" alt="{{ title }}">
+          </figure>
+         {% endif%}
         {% if imageGallery %}
           {% for item in imageGallery %}
             <figure>
