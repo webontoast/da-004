@@ -25,9 +25,11 @@
         {{ content | safe }}
       </div>
 
-      {# <figure>
+      {% if imageGallery %}
+      <figure>
         <img src="{{ imageGallery }}" alt="{{ title }}">
-      </figure> #}
+      </figure>
+      {% endif %}
 
 
       {% if site.enableThirdPartyComments %}

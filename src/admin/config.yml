@@ -11,6 +11,7 @@ media_library:
   config:
     cloud_name: dvzwcttpm
     api_key: 279343436673265
+    multiple: true
 collections:
   - name: "pages"
     label: "Pages"
