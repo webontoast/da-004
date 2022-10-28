@@ -96,8 +96,8 @@ collections:
       - {label: "Project Description", name: "projectDesc", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list", allow_add: true}
-      - {label: "Featured Image", name: "featuredImage", widget: "image"}
-      - {label: "Image Gallery", name: "imageGallery", widget: "image", required: false}
+      - {label: "Featured Image", name: "featuredImage", widget: "image", choose_url: false}
+      - {label: "Image Gallery", name: "imageGallery", widget: "image", choose_url: false, required: false}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "SEO Meta Title", name: "metaTitle", widget: "string", required: false}
       - {label: "SEO Meta Description", name: "metaDesc", widget: "string", required: false}
@@ -112,7 +112,7 @@ collections:
       - {label: "Title", name: "title", widget: "string"}
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list", allow_add: true}
-      - {label: "Featured Image", name: "featuredImage", widget: "image", required: false}
+      - {label: "Featured Image", name: "featuredImage", widget: "image", choose_url: false, required: false}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "SEO Meta Title", name: "metaTitle", widget: "string", required: false}
       - {label: "SEO Meta Description", name: "metaDesc", widget: "string", required: false}
