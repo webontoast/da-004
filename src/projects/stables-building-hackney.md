@@ -5,8 +5,15 @@ projectDesc: A derelict stables and tram shed on Kingsland Road converted,
   extended and renovated to produce a mixed use scheme.
 tags:
   - Mixed Used Development
+featuredImage:
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666982342/Projects/Stables%20Building%2C%20Hackney/1-STB-APARTMENTS-new_build_b_zkysz5.jpg
+imageGallery:
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666982341/Projects/Stables%20Building%2C%20Hackney/2-STB-front-elevation_m2hxcx.jpg
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666982341/Projects/Stables%20Building%2C%20Hackney/6-STB-APARTMENTS-Graeae_ycxzgv.jpg
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666982341/Projects/Stables%20Building%2C%20Hackney/Hackney-Architects-02_aigsse.jpg
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666982341/Projects/Stables%20Building%2C%20Hackney/Hackney-Architect-01_pmqhxa.jpg
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666982342/Projects/Stables%20Building%2C%20Hackney/Islington-Architect-Stables_phhyog.jpg
 date: 2022-10-16T15:54:42.966Z
-featuredImage: /images/1-stb-apartments-new_build_b.jpeg
 ---
 This project involved the conversion and renovation of existing listed buildings and the construction of a new building. The works involved creating a B1 unit that has been taken by a disabled theatre group and the creating of 9 apartments within the listed section of te building. A new five story building contains additional living space.
 
