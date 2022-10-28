@@ -1,11 +1,15 @@
 ---
 layout: layouts/project.njk
 title: Hoxton Square
-featuredImage: /images/1-commercial-roof-extension-hoxton.jpeg
-date: 2022-10-12T16:25:20.825Z
+projectDesc: A roof-top extension constructed as zinc shell in Shoreditch.
 tags:
   - Office Space
-projectDesc: A roof-top extension constructed as zinc shell in Shoreditch.
+featuredImage:
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666982584/Projects/Hoxton%20Square/1-commercial-roof-extension-hoxton_gcx8la.jpg
+imageGallery:
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666982585/Projects/Hoxton%20Square/2-hoxton-square-roof-02a2_aagfqw.gif
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666982584/Projects/Hoxton%20Square/3-Hackney-Planning-2-1_v9wkes.jpg
+date: 2022-10-12T16:25:20.825Z
 ---
 This roof extension forms a new addition to the varied landscape of roof top architecture in Hoxton square.
 
