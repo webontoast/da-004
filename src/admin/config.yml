@@ -4,8 +4,12 @@ backend:
 # when using the default proxy server port
 local_backend: true
 # publish_mode: editorial_workflow
-media_folder: "src/images"
+# media_folder: "src/images"
 public_folder: "/images"
+media_library:
+  name: uploadcare
+  config:
+    publicKey: 6be9c8f3cb4039f6f8af
 collections:
   - name: "pages"
     label: "Pages"
