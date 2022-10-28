@@ -5,7 +5,8 @@ projectDesc: Renovation and extension of a listed building with a proposal for a
   new building within the grounds of the old one.
 tags:
   - Houses
-featuredImage: /images/tha_new_house.jpeg
+featuredImage:
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666982125/Projects/Thamesfield%20House%2C%20Shepperton/THA_new_house_vg6je6.jpg
 imageGallery:
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666982124/Projects/Thamesfield%20House%2C%20Shepperton/THA-elewation-longer700-FOR-WEB_uxf2ue.jpg
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666982124/Projects/Thamesfield%20House%2C%20Shepperton/THA2-NEWHOUSE-Rare-with-space-blueNew-1_gmkid3.jpg
