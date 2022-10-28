@@ -5,7 +5,11 @@ projectDesc: An easy way to make room for a new bedroom.
 tags:
   - Houses
   - Office Space
-featuredImage: /images/garden-office-hackney-stoke-newington-douglas-architects.jpeg
+featuredImage:
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666980885/Projects/Cedar%20Clad%20Garden%20Office%20in%20Stoke%20Newington/cedar-clad-garden-studio-hackney-stoke-newington-N16-douglas-architects_thy4qn.jpg
+imageGallery:
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666980885/Projects/Cedar%20Clad%20Garden%20Office%20in%20Stoke%20Newington/garden-studio-hackney-stoke-newington-douglas-architects_nfzdsn.jpg
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666980885/Projects/Cedar%20Clad%20Garden%20Office%20in%20Stoke%20Newington/cedar-clad-garden-studio-hackney-stoke-newington-N16-douglas-architects_thy4qn.jpg
 date: 2022-10-17T09:53:10.020Z
 ---
 An easy way to make room for a new bedroom.
