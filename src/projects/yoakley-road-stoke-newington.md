@@ -4,8 +4,14 @@ title: Yoakley Road, Stoke Newington
 projectDesc: A Victorian house in Stoke Newington that we extended and renovated.
 tags:
   - Houses
+featuredImage:
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666982236/Projects/Yoakley%20Road%2C%20Stoke%20Newington/1-YOA-main-image-HOUSE_07_p0ifml.jpg
+imageGallery:
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666982235/Projects/Yoakley%20Road%2C%20Stoke%20Newington/2-yoakley-road-interior_ro4zas.gif
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666982237/Projects/Yoakley%20Road%2C%20Stoke%20Newington/3-yoakley-road-bathroom-1_k5slpb.gif
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666982235/Projects/Yoakley%20Road%2C%20Stoke%20Newington/4-YOA-CRAIGS-HOUSE-PEOPLE-03_gjthoz.jpg
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666982235/Projects/Yoakley%20Road%2C%20Stoke%20Newington/5-YOA-CRAIGS-HOUSE_06_yzmiqp.jpg
 date: 2022-10-16T15:56:58.585Z
-featuredImage: /images/1-yoa-main-image-house_07.jpeg
 ---
 We refurbished and extended a run down Victorian house in Stoke Newington. Planning permission was required for the two storey extension. A main contractor was employed for the main construction work and we acted as project managers for the refurbishment and fit out works.
 
