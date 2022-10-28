@@ -6,9 +6,11 @@
         {% for item in postListItems %}
           {% if item.date.getTime() <= global.now %}
             <li class="post-list__item">
-              <figure>
-                <img src="{{ item.data.featuredImage }}" alt="{{ item.data.title }}">
-              </figure>
+              {% if item.data.featuredImage %}
+                <figure>
+                  <img src="{{ item.data.featuredImage }}" alt="{{ item.data.title }}">
+                </figure>
+              {% endif %}
               <h3 class="font-base leading-tight text-600 weight-mid">
                 <a href="{{ item.url }}" class="post-list__link" rel="bookmark">{{ item.data.title }}</a>
               </h3>
