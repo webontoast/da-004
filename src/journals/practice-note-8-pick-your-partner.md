@@ -3,7 +3,7 @@ layout: layouts/journal.njk
 title: "Practice Note 8: Pick Your Partner"
 tags:
   - Practice Notes
-featuredImage: /images/fff.png
+featuredImage: ""
 date: 2017-01-31T12:51:58.279Z
 ---
 Architecture is definitely easier done as a group – or at least a pair. So when starting up, think about doing it with a partner, but maybe don’t think that it is going to last forever. Why would it?
