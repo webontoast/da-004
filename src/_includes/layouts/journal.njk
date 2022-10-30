@@ -20,9 +20,11 @@
       {# </div> #}
       {# <div class="inner-wrapper"> #}
         {% if not hideFeaturedImage %}
-          <figure>
-            <img src="{{ featuredImage }}" alt="{{ title }}">
-          </figure>
+          {% if item.data.featuredImage %}
+            <figure>
+              <img src="{{ featuredImage }}" alt="{{ title }}">
+            </figure>
+          {% endif%}
         {% endif%}
         {% if imageGallery %}
           {% for item in imageGallery %}
