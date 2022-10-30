@@ -4,7 +4,7 @@ title: "Practice note number 14: Planning permission – an on-going considerati
 tags:
   - Practice Notes
   - Writing
-featuredImage: /images/fff.png
+featuredImage: ""
 date: 2019-12-18T13:07:22.926Z
 ---
 Soon after thoughts about carrying out some building work to a property have been formed, thoughts will often turn to planning permission requirements and how best to deal with them. Planning permission in one form or another will usually appear as a major milestone on most construction projects. With this in mind, it is useful to consider how the planning process fits into the overall project program.
