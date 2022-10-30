@@ -114,6 +114,8 @@ collections:
       - {label: "Body", name: "body", widget: "markdown"}
       - {label: "Tags", name: "tags", widget: "list", allow_add: true}
       - {label: "Featured Image", name: "featuredImage", widget: "image", choose_url: false, required: false}
+      - {label: "Hide Featured Image in Single Page", name: "hideFeaturedImage", widget: "boolean", required: false}
+      - {label: "Image Gallery", name: "imageGallery", widget: "image", choose_url: false, required: false}
       - {label: "Publish Date", name: "date", widget: "datetime"}
       - {label: "SEO Meta Title", name: "metaTitle", widget: "string", required: false}
       - {label: "SEO Meta Description", name: "metaDesc", widget: "string", required: false}
