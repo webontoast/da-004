@@ -3,7 +3,8 @@ layout: layouts/journal.njk
 title: We have Moved
 tags:
   - News
-featuredImage: /images/douglas_architects_dalston_hackney.jpeg
+featuredImage:
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1667143676/Journals/douglas_architects_dalston_hackney_oybqj1.jpg
 date: 2016-01-21T12:44:49.629Z
 ---
 Douglas Architects has now moved to a new address in Dalston:
