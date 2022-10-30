@@ -3,7 +3,8 @@ layout: layouts/journal.njk
 title: All Good Things Come To An End
 tags:
   - News
-featuredImage: /images/douglas_architects_football_01a.jpeg
+featuredImage:
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1667144183/Journals/Douglas_architects_football_01a_klvh25.jpg
 date: 2018-11-30T12:59:13.134Z
 ---
 I got a long way with the development of the Stoke Newington Youth Girls Football Club – we grew from 3 or 4 girls and one coach (me) to around 25 girls and 5 or 6 coaches (all dads). It was a great experience but at the end of last season I decided it was time to step down. 5 years of running Sunday morning football sessions started to catch up with me!
