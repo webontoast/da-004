@@ -4,7 +4,7 @@ title: "Practice Note 4: The Jump"
 tags:
   - Practice Notes
 featuredImage: /images/fff.png
-date: 2016-03-30T11:47:45.544Z
+date: 2016-03-21T12:47:45.544Z
 ---
 So far, I have tried three different routes to architectural household name fame. I’m sure there are lots of starting points, but here are my three – in chronological order.
 
