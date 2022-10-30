@@ -3,7 +3,8 @@ layout: layouts/journal.njk
 title: Internet Shopping is Good for You
 tags:
   - Writing
-featuredImage: ""
+featuredImage:
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1667142784/Journals/fff_wp7xei.png
 date: 2013-11-13T11:57:10.261Z
 ---
 Our text was shortlisted in an RIBA competition titled Resources, Urbanism, Community and Collaboration – What does the future hold?
