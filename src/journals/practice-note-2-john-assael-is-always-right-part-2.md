@@ -3,7 +3,7 @@ layout: layouts/journal.njk
 title: "Practice Note 2: John Assael is Always Right (Part 2)"
 tags:
   - Practice Notes
-featuredImage: /images/fff.png
+featuredImage: ""
 date: 2016-01-20T12:44:16.866Z
 ---
 I met John Assael at an RIBA evening thing a while ago and when I mentioned my sole practitioner, work from home status and he asked me a question, along the lines of  – what would I do if another office challenged me to a 5 – side football match? This led on to a more pointed comment to the effect that as a sole practitioner, you run a very substantial risk of becoming a strange and perhaps undervalued kind of domestic technician. Of course I chose not to agree at the time, but underneath I knew he had a point. The decision to work as a sole practitioner almost inevitably comes with a decision to work on small-ish domestic projects. And, it is hard to explain, but with this sort of residential work as your mainstay, you really do spend a lot of your time following through other people’s visions for their domestic setting. It’s their house so why wouldn’t they want to tell you how they want it? Indeed, that is at least part of what you are there for.
