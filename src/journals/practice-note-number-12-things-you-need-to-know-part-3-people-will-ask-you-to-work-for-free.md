@@ -4,7 +4,7 @@ title: "Practice Note Number 12: Things You Need to Know (Part 3) People Will
   Ask You to Work for Free"
 tags:
   - Practice Notes
-featuredImage: /images/fff.png
+featuredImage: ""
 date: 2019-05-26T12:03:10.595Z
 ---
 It will happen. You will be happily working away and then you will get the call about a potential new job… but there is a catch. The catch sounds small to begin with, but as the detail emerges, it turns out that the catch is that you will need to do some work for free and then if all goes well, then you will get paid really well later on down the line.
