@@ -3,7 +3,7 @@ layout: layouts/journal.njk
 title: How We Think About Space in Architecture
 tags:
   - Writing
-featuredImage: /images/fff.png
+featuredImage: ""
 date: 2014-09-18T11:30:24.123Z
 ---
 This text was submitted as part of a symposium organised by the Royal Academy. The symposium was part of the exhibition at the Royal Academy called Sensing Spaces – Architecture Reimagined.
