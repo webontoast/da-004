@@ -4,7 +4,7 @@ title: Notes on Self Build – You know your are nearly finished when...
 tags:
   - Self Build
   - Writing
-featuredImage: /images/fff.png
+featuredImage: ""
 date: 2019-06-20T12:03:44.334Z
 ---
 The last part of any job is always hard work. Those final finishing touches are the ones that you end up looking at and they come along just when builders, clients and architects can’t wait to get everything done.
