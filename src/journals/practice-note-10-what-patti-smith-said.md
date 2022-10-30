@@ -3,7 +3,7 @@ layout: layouts/journal.njk
 title: "Practice Note 10: What Patti Smith Said"
 tags:
   - Practice Notes
-featuredImage: /images/fff.png
+featuredImage: ""
 date: 2017-08-10T11:55:29.483Z
 ---
 I recently read Just Kids by Patti Smith, which is an incredible book from start to finish. I’m certain that the book would feature of my list of books architects should read – I wish I had read it many years ago. There is one line in it that struck me as worth having a good think about in the context of this blog:
