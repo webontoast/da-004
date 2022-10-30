@@ -3,7 +3,7 @@ layout: layouts/journal.njk
 title: Notes on Self Build – It can get lonely
 tags:
   - Self Build
-featuredImage: /images/fff.png
+featuredImage: ""
 date: 2019-05-26T12:02:41.825Z
 ---
 We know that architecture projects can take quite a long time – three years from start to finish is not uncommon and if you take into account the process of arranging finance and finding and buying the site at the start of the process, then the it gets even longer.
