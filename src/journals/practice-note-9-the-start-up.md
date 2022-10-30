@@ -3,7 +3,7 @@ layout: layouts/journal.njk
 title: "Practice Note 9: The Start-Up"
 tags:
   - Practice Notes
-featuredImage: /images/fff.png
+featuredImage: ""
 date: 2017-07-18T11:53:47.535Z
 ---
 When you start up an architectural practice there are lots of tings to think about. Money is usually pretty high on the list. Going back to my first start up in partnership (Douglas & King Architects), we did something which seemed natural to us at the time but was actually pretty special as it turns out. We devised a good plan to help us get started and keep our finances working positively right from the start. It went like this:
