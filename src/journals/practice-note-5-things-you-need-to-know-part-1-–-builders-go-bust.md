@@ -3,7 +3,7 @@ layout: layouts/journal.njk
 title: "Practice Note 5: Things you Need to Know (Part 1) – Builders Go Bust"
 tags:
   - Practice Notes
-featuredImage: /images/fff.png
+featuredImage: ""
 date: 2016-03-24T12:48:52.873Z
 ---
 I’ve been through the builder going bust on a job process three times now and it’s no fun at all. The first time, there was no sign of anything going wrong on site until the builder simply stopped coming to site. The project was not far from completion but there was a fair bit to do. Tools were left all over the site. Troupes of sub-contractors came knocking on our door to ask if we knew of his whereabouts. The builder clearly owed a lot of people a lot of money. He had just bought himself a new BMW, which at the time struck us as a bit odd but we didn’t say anything. Of course we didn’t know what was coming next. We never heard from him again, which is a pity because we got on well and he was shaping to be a really good small-scale builder.
