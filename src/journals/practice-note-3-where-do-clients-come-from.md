@@ -3,7 +3,7 @@ layout: layouts/journal.njk
 title: "Practice Note 3: Where Do Clients Come From?"
 tags:
   - Practice Notes
-featuredImage: /images/fff.png
+featuredImage: ""
 date: 2016-02-10T12:46:11.779Z
 ---
 One of my first new clients came in through the fire escape and asked “I’m looking for an architect – is that you?” We went on to have a very fruitful relationship working on a number of great projects. A few years later an existing client dropped in to see us to tslk to us about a new job – he came in through a hole in the wall that we had made to gain access to a roof terrace. (Our office was based on part of a building site at the time.) This client had found his way up to the roof terrace from the fire escape so maybe our best marketing strategy at the time was to make sure we had a fire escape in each office space that we rented.
