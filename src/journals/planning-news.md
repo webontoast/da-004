@@ -3,7 +3,7 @@ layout: layouts/journal.njk
 title: Planning News
 tags:
   - News
-featuredImage: /images/fff.png
+featuredImage: ""
 date: 2015-12-07T12:42:52.890Z
 ---
 Planning and Listed Building Consent have been granted for our project to renovate and extend a Grade 2 Listed terraced house on Nelson Terrace in Islington. This is the third listed building we have worked on in Islington and we are looking forward to getting stuck in to the detail design and construction stages of the project.
