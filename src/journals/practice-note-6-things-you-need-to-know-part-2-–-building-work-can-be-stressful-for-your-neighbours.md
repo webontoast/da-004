@@ -4,7 +4,7 @@ title: "Practice Note 6: Things You Need to Know (Part 2) – Building Work can 
   Stressful for your Neighbours"
 tags:
   - Practice Notes
-featuredImage: /images/fff.png
+featuredImage: ""
 date: 2016-05-19T11:49:26.482Z
 ---
 My father, who was a construction contract manager, once told me that it doesn’t matter how hard you try, if you carry out work to a party wall or build on a boundary somebody will get upset.
