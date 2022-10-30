@@ -4,7 +4,7 @@ title: "Practice Note Number 13: Don’t Forget the Party Wall Act"
 tags:
   - Practice Notes
   - Writing
-featuredImage: /images/fff.png
+featuredImage: ""
 date: 2019-10-17T12:05:00.888Z
 ---
 It’s the part of the process that often gets overlooked but has the potential to cause delay and add costs and any building project in close proximity to neighbouring properties.
