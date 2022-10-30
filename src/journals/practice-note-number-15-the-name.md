@@ -4,7 +4,7 @@ title: "Practice Note Number 15: The Name"
 tags:
   - Practice Notes
   - Writing
-featuredImage: /images/fff.png
+featuredImage: ""
 date: 2020-12-17T13:13:03.449Z
 ---
 When starting up I had to think hard about what my new venture should be called. I knew I would probably end up with “Name” Architects, but I thought I should think about it a bit first. One thing my research told me (thanks Su Butcher) is that you need a name that works well as a web domain and as an email address and ideally tells people what you do. This sounds obvious I know but it seemed quite insightful at the time.
