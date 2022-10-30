@@ -3,7 +3,7 @@ layout: layouts/journal.njk
 title: "Practice Note 1: John Assael is Always Right (Part 1)"
 tags:
   - Practice Notes
-featuredImage: /images/fff.png
+featuredImage: ""
 date: 2016-01-19T12:43:28.990Z
 ---
 My first desk in my current practice set up was the flight case of a bass guitar – it was a fantastic start. My work diary for the time reads:
