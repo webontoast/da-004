@@ -3,7 +3,10 @@ layout: layouts/journal.njk
 title: My Other Life
 tags:
   - Writing
-featuredImage: /images/my-other-life-1.jpeg
+featuredImage:
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1667143431/Journals/My-Other-Life-1_puadqz.jpg
+imageGallery:
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1667143431/Journals/My-Other-Life-2_x5nb3e.jpg
 date: 2015-06-01T11:38:01.061Z
 ---
 *This text was published in The Architects’ Journal in May 2015.*
