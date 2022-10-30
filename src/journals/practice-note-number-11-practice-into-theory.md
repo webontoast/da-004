@@ -3,7 +3,7 @@ layout: layouts/journal.njk
 title: "Practice Note Number 11: Practice into Theory"
 tags:
   - Practice Notes
-featuredImage: /images/fff.png
+featuredImage: ""
 date: 2019-01-08T12:59:54.750Z
 ---
 For an architect who spends most of his working and thinking time on a wide variety of usually quite small one-off and very specific problems it is interesting to think about how general practice might evolve into an overall approach to architecture.
