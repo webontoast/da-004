@@ -3,7 +3,7 @@ layout: layouts/journal.njk
 title: "Practice Note 7: Being Norman Foster"
 tags:
   - Practice Notes
-featuredImage: /images/fff.png
+featuredImage: ""
 date: 2017-01-20T12:51:17.628Z
 ---
 Sport is good. So is Reading the Journals!
