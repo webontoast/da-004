@@ -24,7 +24,7 @@
     a {
       color: currentColor;
 
-      @include apply-utility('weight', 'regular');
+      @include apply-utility('weight', 'mid');
 
       &:not(:hover) {
         text-decoration: none;
