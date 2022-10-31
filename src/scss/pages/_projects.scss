@@ -1,0 +1,47 @@
+.intro__heading {
+  max-width: 50ex;
+  text-align: center;
+  text-transform: uppercase;
+}
+
+.projects {
+
+  &.post-list {
+
+    .post-list__items {
+      display: grid;
+      grid-template-columns: 1fr 1fr 1fr;
+      grid-gap: 40px;
+    }
+
+    // .post-list__item {
+    // }
+
+    .post-list__link,
+    .post-list__link:visited {
+      color: var(--color-text);
+    }
+
+    figure {
+      aspect-ratio: 16 / 10;
+      overflow: hidden;
+    }
+
+    .nav__tags {
+      text-align: right;
+      margin-top: -24px;
+    }
+
+    .nav__item a {
+      @include apply-utility('weight', 'regular');
+      background: var(--color-theme-highlight-block);
+      color: var(--color-text);
+      // background: var(--color-text);
+      // color: white;
+      padding: 4px;
+      text-transform: uppercase;
+    }
+  }
+}
+
+

@@ -59,6 +59,7 @@ img {
 // Utils
 @import 'utilities/inner-wrapper';
 @import 'utilities/visually-hidden';
+@import 'utilities/wide-wrapper';
 @import 'utilities/wrapper';
 
 // Components
@@ -75,3 +76,5 @@ img {
 @import 'components/skip-link';
 @import 'components/syntax-highlighting';
 @import 'components/video-player';
+
+@import 'pages/projects';

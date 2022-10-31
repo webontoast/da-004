@@ -1,4 +1,4 @@
 ---
-title: 'Projects Archive'
+title: 'Projects'
 layout: 'layouts/projects.njk'
 ---
