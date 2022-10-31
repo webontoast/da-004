@@ -11,10 +11,10 @@
                   <img src="{{ item.data.featuredImage }}" alt="{{ item.data.title }}">
                 </figure>
               {% endif %}
-              <h3 class="font-base leading-tight text-600 weight-mid">
+              <h3 class="font-base leading-tight text-600 weight-semi">
                 <a href="{{ item.url }}" class="post-list__link" rel="bookmark">{{ item.data.title }}</a>
               </h3>
-              <p class="text-500 gap-top-300 weight-mid">
+              <p class="text-500 gap-top-300 weight-semi">
                 <time datetime="{{ item.date | w3DateFilter }}">{{ item.date | dateFilter }}</time>
               </p>
               {% for item in item.data.tags %}

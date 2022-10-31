@@ -154,8 +154,11 @@ $stalfos-config: (
     'items': (
       'light': '300',
       'regular': '400',
-      'mid': '600',
-      'bold': '700'
+      'medium': '500',
+      'semi': '600',
+      'bold': '700',
+      'extra': '800',
+      'black': '900',
     ),
     'output': 'standard',
     'property': 'font-weight'

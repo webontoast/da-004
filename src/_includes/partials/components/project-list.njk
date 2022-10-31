@@ -9,14 +9,14 @@
               <figure>
                 <img src="{{ item.data.featuredImage }}" alt="{{ item.data.title }}">
               </figure>
-              <h3 class="font-base leading-tight text-600 weight-mid">
+              <h3 class="font-base leading-tight text-600 weight-medium">
                 <a href="{{ item.url }}" class="post-list__link" rel="bookmark">{{ item.data.title }}</a>
               </h3>
-              <p class="text-500 gap-top-300 weight-mid">
+              <p class="text-500 gap-top-300 weight-regular">
                 {{ item.data.projectDesc }}
               </p>
               {% for item in item.data.tags %}
-                <span class="nav__item">
+                <span class="nav__item text-300">
                   <a href="/tags/{{ item }}">{{ item }}</a>
                 </span>
               {% endfor %}
