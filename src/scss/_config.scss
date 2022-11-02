@@ -105,18 +105,23 @@ $stalfos-config: (
   ),
   'pad-top': (
     'items': $stalfos-size-scale,
-    'output': 'standard',
+    'output': 'responsive',
     'property': 'padding-top'
   ),
   'pad-bottom': (
     'items': $stalfos-size-scale,
-    'output': 'standard',
+    'output': 'responsive',
     'property': 'padding-bottom'
   ),
   'pad-left': (
     'items': $stalfos-size-scale,
-    'output': 'standard',
+    'output': 'responsive',
     'property': 'padding-left'
+  ),
+  'pad-right': (
+    'items': $stalfos-size-scale,
+    'output': 'responsive',
+    'property': 'padding-right'
   ),
   'space': (
     'items': (
@@ -184,5 +189,18 @@ $stalfos-config: (
     'icon': 'off',
     'flow': 'on',
     'wrapper': 'off'
+  ),
+  // tailwind-clones
+  'justify': (
+    'items': (
+      'start': 'flex-start',
+      'end': 'flex-end',
+      'center': 'center',
+      'between': 'space-between',
+      'around': 'space-around',
+      'evenly': 'space-evenly'
+    ),
+    'output': 'responsive',
+    'property': 'justify-content'
   )
 );

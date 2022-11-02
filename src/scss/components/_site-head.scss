@@ -1,7 +1,14 @@
 .site-head {
+  
+  @media (max-width: 47.99rem) {
+    padding-top: get-size(base);
+  }
+
   &__site-name {
     font-weight: 400;
     text-decoration: none;
+    text-transform: uppercase;
+    text-align: center;
     color: var(--color-text);
   }
 }
