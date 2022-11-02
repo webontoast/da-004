@@ -2,6 +2,11 @@
   max-width: map-get($metrics, 'fullwidth-wrap-max-width');
   margin-left: auto;
   margin-right: auto;
-  padding-left: get-size(max);
-  padding-right: get-size(max);
+  padding-left: get-size(base);
+  padding-right: get-size(base);
+
+  @media (min-width: 48rem) {
+    padding-left: get-size(max);
+    padding-right: get-size(max);
+  }
 }
