@@ -1,0 +1,17 @@
+{# <header class="[ intro ] [ pad-top-500 pad-bottom-500 ]"> #}
+<header class="intro">
+  <div class="[ inner-wrapper ] [ sf-flow ]">
+    {# <h1 class="[ intro__heading{{ ' intro__heading--compact' if page.url === '/projects' }} ] [ font-base text-300 leading-tight weight-medium ] [ p-name ]">{{ introHeading }} / </h1> #}
+    <nav class="sub-nav box-flex align-center justify-evenly">
+        {# <span class="text-300 weight-medium">{{ introHeading }} / </span> #}
+        <a class="nav__item">All</a> &bull; 
+        <a class="nav__item">Houses</a> &bull; 
+        <a class="nav__item">Masterplanning</a> &bull; 
+        <a class="nav__item">Mixed Used Development</a> &bull; 
+        <a class="nav__item">Office Space</a>
+    </nav>
+    {% if introSummary %}
+      <div class="[ intro__summary ] [ sf-flow ] [ leading-mid measure-short ]">{{ introSummary | safe }}</div>
+    {% endif %}
+  </div>
+</header>

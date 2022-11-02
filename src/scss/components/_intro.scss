@@ -1,5 +1,6 @@
 .intro {
-  background: var(--color-theme-highlight-block);
+  background: var(--color-bg-mid);
+  border-bottom: 1px solid var(--color-stroke);
 
   &__summary {
     --flow-space: #{get-size(500)};
@@ -15,8 +16,12 @@
   }
 
   &__heading {
-    max-width: 40ex;
+    // max-width: 40ex;
+    max-width: 100%;
     color: var(--color-theme-feature-text);
+
+    text-align: center;
+    text-transform: uppercase;
 
     &--compact {
       max-width: 20ex;

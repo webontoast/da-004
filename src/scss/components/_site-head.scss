@@ -1,4 +1,6 @@
 .site-head {
+  background: var(--color-bg-dark);
+  border-bottom: 1px solid var(--color-stroke);
   
   @media (max-width: 47.99rem) {
     padding-top: get-size(base);

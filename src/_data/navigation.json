@@ -12,7 +12,8 @@
     },
     {
       "text": "Douglas Architects",
-      "url": "/"
+      "url": "/",
+      "external": false
     },
     {
       "text": "About",
