@@ -1,11 +1,6 @@
 {
   "items": [
     {
-      "text": "About",
-      "url": "/about",
-      "external": false
-    },
-    {
       "text": "Projects",
       "url": "/projects",
       "external": false
@@ -13,6 +8,15 @@
     {
       "text": "Journals",
       "url": "/journals",
+      "external": false
+    },
+    {
+      "text": "Douglas Architects",
+      "url": "/"
+    },
+    {
+      "text": "About",
+      "url": "/about",
       "external": false
     },
     {
