@@ -9,17 +9,17 @@
             <li class="post-list__item gap-bottom-700">
               <a href="{{ item.url }}">
                 <figure>
-                  <img src="{{ item.data.featuredImage }}" alt="{{ item.data.title }}">
+                  <img  class="post-list__image" src="{{ item.data.featuredImage }}" alt="{{ item.data.title }}">
                 </figure>
               </a>
-              <div class="nav__tags gap-bottom-300">
-              {% for item in item.data.tags %}
+              <nav class="post-list__tags gap-bottom-300">
+                {% for item in item.data.tags %}
                 <span class="nav__item text-300">
-                  <a href="/tags/{{ item }}">{{ item }}</a>
+                    <a class="post-list__tag " href="/tags/{{ item }}">{{ item }}</a>
                 </span>
-              {% endfor %}
-              </div>
-              <h3 class="font-base leading-tight text-base weight-semi">
+                {% endfor %}
+              </nav>
+              <h3 class="font-base leading-tight text-base weight-medium">
                 <a href="{{ item.url }}" class="post-list__link" rel="bookmark">{{ item.data.title }}</a>
               </h3>
               <p class="weight-light">

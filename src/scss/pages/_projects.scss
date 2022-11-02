@@ -22,23 +22,24 @@
       color: var(--color-text);
     }
 
-    figure {
-      aspect-ratio: 16 / 10;
-      overflow: hidden;
+    .post-list__image {
+      object-fit: cover;
+      object-position: center;
+      aspect-ratio: 16/10;
     }
 
-    .nav__tags {
+    .post-list__tags {
       text-align: right;
-      margin-top: -24px;
+      margin-top: -31.5px;
     }
 
-    .nav__item a {
+    .post-list__tag {
       @include apply-utility('weight', 'regular');
       background: var(--color-theme-highlight-block);
       color: var(--color-text);
       // background: var(--color-text);
       // color: white;
-      padding: 4px;
+      padding: 4px 6px;
       text-transform: uppercase;
     }
   }

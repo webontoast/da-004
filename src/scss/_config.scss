@@ -28,6 +28,7 @@ $stalfos-util-prefix: 'sf-';
  * Various misc metrics to use around the site
  */
 $metrics: (
+  'fullwidth-wrap-max-width': 100%,
   'wide-wrap-max-width': 97.5rem,
   'wrap-max-width': 58rem,
   'wrap-inner-max-width': 52rem,
