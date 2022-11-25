@@ -24,17 +24,19 @@
 
     .post-list__tags {
       text-align: right;
-      margin-top: -31.5px;
-    }
+      margin-top: -31px;
 
-    .post-list__tag {
-      @include apply-utility('weight', 'regular');
-      background: var(--color-theme-highlight-block);
-      color: var(--color-text);
-      // background: var(--color-text);
-      // color: white;
-      padding: 4px 6px;
-      text-transform: uppercase;
+      .nav__item {
+        font-size: get-size(200);
+        @include apply-utility('weight', 'regular');
+        text-transform: uppercase;
+
+        .post-list__tag {
+          background-color: var(--color-bg);
+          color: var(--color-text);
+          padding: 4px 6px;
+        }
+      }
     }
   }
 }
