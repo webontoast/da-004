@@ -3,6 +3,8 @@ layout: layouts/page.njk
 title: About
 permalink: /about/index.html
 ---
+
+
 ![Douglas Architects](/images/craig-douglas-architect-2.jpeg "Craig Douglas")
 
 Douglas Architects is an architecture and design studio based in\
