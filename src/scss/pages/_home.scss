@@ -1,0 +1,45 @@
+
+
+.home .site-head {
+    border-bottom: none;
+}
+
+.home #main-content {
+    align-items: stretch;
+    background-color: var(--color-bg-dark);
+    flex: initial;
+
+    ul li:nth-child(2),
+    ul li:nth-child(3) {
+        display: none;
+    }
+
+    li div {
+        padding: 20px;
+
+        p {
+            font-weight: 300;
+            font-size: 1.5rem;
+        }
+    }
+}
+
+
+
+@media (min-width: 48rem) {
+
+    .home #main-content ul li {
+        display: flex;
+        align-items: self-end;
+        flex-direction: row-reverse;
+    }
+
+    .home #main-content li div {
+        padding: 80px;
+
+        p {
+            font-size: 1.75rem;
+            max-width: 640px;
+        }
+    }
+}
