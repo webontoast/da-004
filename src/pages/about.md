@@ -3,7 +3,7 @@ layout: layouts/page.njk
 title: About
 permalink: /about/index.html
 ---
-![](https://res.cloudinary.com/dvzwcttpm/image/upload/v1669371638/Projects/College%20Cross%2C%20Islington/About/IR_ieawwr.jpg)
+![]()
 
 ![Douglas Architects](/images/craig-douglas-architect-2.jpeg "Craig Douglas")
 
