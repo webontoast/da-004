@@ -32,7 +32,8 @@ $metrics: (
   'wide-wrap-max-width': 97.5rem,
   'wrap-max-width': 58rem,
   'wrap-inner-max-width': 52rem,
-  'md-breakpoint': 48rem
+  'md-breakpoint': 48rem,
+  'lg-breakpoint': 60rem,
 );
 
 /**
@@ -182,7 +183,8 @@ $stalfos-config: (
     'property': 'width'
   ),
   'breakpoints': (
-    'md': #{'(min-width: ' + map-get($metrics, 'md-breakpoint') + ')'}
+    'md': #{'(min-width: ' + map-get($metrics, 'md-breakpoint') + ')'},
+    'lg': #{'(min-width: ' + map-get($metrics, 'lg-breakpoint') + ')'}
   ),
   'utilities': (
     'reset': 'on',
