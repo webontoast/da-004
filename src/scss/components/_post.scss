@@ -121,7 +121,8 @@
   }
 
   &__footer {
-    background: var(--color-theme-highlight);
+    background: var(--color-light-dark);
+    border-top: 1px solid var(--color-stroke);
 
     h2 {
       flex-shrink: 0;
