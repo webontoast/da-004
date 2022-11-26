@@ -5,9 +5,10 @@
 }
 
 .home #main-content {
+    display: flex;
     align-items: stretch;
     background-color: var(--color-bg-dark);
-    flex: initial;
+    // flex: initial;
 
     ul li:nth-child(2),
     ul li:nth-child(3) {
@@ -26,16 +27,35 @@
 
 
 
-@media (min-width: 48rem) {
+@media (min-width: 60rem) {
 
-    .home #main-content ul li {
-        display: flex;
-        align-items: self-end;
-        flex-direction: row-reverse;
-    }
+    .home #main-content ul {
+        width: 100%;
 
-    .home #main-content li div {
-        padding: 80px;
+        li {
+            display: flex;
+            align-items: self-end;
+            flex-direction: row-reverse;
+            justify-content: space-between;
+            height: 100%;
+
+            div {
+                padding: 0 20px 80px 80px;
+                flex: 0.33
+            }
+
+            figure {
+                height: 100%;
+                flex: 0.66;
+                display: flex;
+                justify-content: flex-end;
+
+                img {
+                    height: 100%;
+                    // object-fit: cover;
+                }
+            }
+        }
 
         p {
             font-size: 1.75rem;
