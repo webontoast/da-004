@@ -24,15 +24,6 @@ collections:
         fields:
           - {label: "Layout", name: "layout", widget: "hidden", default: "layouts/njk.njk"}
           - {label: "Title", name: "title", widget: "string"}
-
-          - label: "About"
-            name: "about"
-            widget: "object"
-            fields:
-              - {label: "Text", name: "about_text", widget: "string", required: false}
-              - {label: "CTA", name: "about_cta", widget: "string", required: false}
-              - {label: "Url", name: "about_url", widget: "string", required: false}
-              - {label: "Image", name: "about_img", widget: "image", required: false}
           - label: "Projects"
             name: "projects"
             widget: "object"
@@ -41,6 +32,14 @@ collections:
               - {label: "CTA", name: "projects_cta", widget: "string", required: false}
               - {label: "Url", name: "projects_url", widget: "string", required: false}
               - {label: "Image", name: "projects_img", widget: "image", required: false}
+          - label: "About"
+            name: "about"
+            widget: "object"
+            fields:
+              - {label: "Text", name: "about_text", widget: "string", required: false}
+              - {label: "CTA", name: "about_cta", widget: "string", required: false}
+              - {label: "Url", name: "about_url", widget: "string", required: false}
+              - {label: "Image", name: "about_img", widget: "image", required: false}
           - label: "Contact"
             name: "contact"
             widget: "object"
