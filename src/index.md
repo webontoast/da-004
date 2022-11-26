@@ -1,20 +1,20 @@
 ---
 layout: home
 title: Home
-about:
-  about_text: Douglas Architects is an architecture and design studio based in
-    Islington, London.
-  about_cta: Learn More
-  about_url: /about/
-  about_img:
-    - https://res.cloudinary.com/dvzwcttpm/image/upload/v1669470906/Homepage/1-col-apartment-collegecross__e4d1pk.jpg
 projects:
-  projects_text: Look out for the focus on materials and details in our projects
-    and have a look at our blog to see how the projects get built.
+  projects_text: " Douglas Architects is an architecture and design studio based
+    in Islington, London."
   projects_cta: View Projects
   projects_url: /projects/
   projects_img:
     - https://res.cloudinary.com/dvzwcttpm/image/upload/v1669470896/Homepage/allerton-road-architecture-douglas-architects-02_ld1ikz.jpg
+about:
+  about_text: The studio is led by Craig who has over 25 years experience working
+    in architecture.
+  about_cta: Learn More
+  about_url: /about/
+  about_img:
+    - https://res.cloudinary.com/dvzwcttpm/image/upload/v1669470906/Homepage/1-col-apartment-collegecross__e4d1pk.jpg
 contact:
   contact_text: Feel free to call or email to talk through your ideas for a project.
   contact_cta: Contact Us
