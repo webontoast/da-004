@@ -1,21 +1,21 @@
 <ul>
   <li>
     <figure>
-      <img src="{{ aboutImg }}" alt="{{ about }}">
-    </figure>
-    <div>
-      <p class="text-600 xl:text-650">{{ aboutText }}</p>
-      <a href="{{ aboutUrl }}">{{ aboutCTA }}</a>
-    </div>
-  </li>
-
-  <li>
-    <figure>
       <img src="{{ projectsImg }}" alt="{{ projects }}">
     </figure>
     <div>
-      <p class="text-600 xl:text-650">{{ projectsText }}</p>
-      <a href="{{ projectsUrl }}">{{ projectsCTA }}</a>
+      <p class="text-600 xl:text-650 gap-bottom-base">{{ projectsText }}</p>
+      <a class="button text-300" href="{{ projectsUrl }}">{{ projectsCTA }}</a>
+    </div>
+  </li>
+  
+  <li>
+    <figure>
+      <img src="{{ aboutImg }}" alt="{{ about }}">
+    </figure>
+    <div>
+      <p class="text-600 xl:text-650 gap-bottom-base">{{ aboutText }}</p>
+      <a class="button text-300" href="{{ aboutUrl }}">{{ aboutCTA }}</a>
     </div>
   </li>
 
@@ -24,8 +24,10 @@
       <img src="{{ contactImg }}" alt="{{ contact }}">
     </figure>
     <div>
-      <p class="text-600 xl:text-650">{{ contactText }}</p>
-      <a href="{{ contactUrl }}">{{ contactCTA }}</a>
+      <p class="text-600 xl:text-650 gap-bottom-base">{{ contactText }}</p>
+      <a class="button text-300" href="{{ contactUrl }}">{{ contactCTA }}</a>
     </div>
   </li>
 </ul>
+
+
