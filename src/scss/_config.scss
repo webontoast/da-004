@@ -185,7 +185,7 @@ $stalfos-config: (
   ),
   'breakpoints': (
     'md': #{'(min-width: ' + map-get($metrics, 'md-breakpoint') + ')'},
-    'lg': #{'(min-width: ' + map-get($metrics, 'lg-breakpoint') + ')'}
+    'lg': #{'(min-width: ' + map-get($metrics, 'lg-breakpoint') + ')'},
     'xl': #{'(min-width: ' + map-get($metrics, 'xl-breakpoint') + ')'}
   ),
   'utilities': (
