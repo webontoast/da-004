@@ -1,5 +1,8 @@
 {% extends 'layouts/base.njk' %}
 
+{# Body class #}
+{% set bodyClass = 'projects' %}
+
 {# Intro content #}
 {% set introHeading = title %}
 {% set introSummary %}{{ content | safe }}{% endset %}

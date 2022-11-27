@@ -1,5 +1,8 @@
 {% extends 'layouts/base.njk' %}
 
+{# Body class #}
+{% set bodyClass = 'journal' %}
+
 {# Intro content #}
 {% set introHeading = title %}
 {% set introSummary %}
@@ -13,7 +16,7 @@
 
 {% block content %}
   <main id="main-content" tabindex="-1">
-    <article class="[ post ] [ h-entry ] journal">
+    <article class="[ post ] [ h-entry ]">
       {% include "partials/components/intro.njk" %}
       <div class="[ post__body ] [ inner-wrapper ] [ leading-loose pad-top-900 {{ 'pad-bottom-base' if not site.enableThirdPartyComments }} text-500 ] [ sf-flow ] [ e-content ]">
          {% if introSummary %}
