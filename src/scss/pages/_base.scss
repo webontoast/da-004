@@ -7,7 +7,7 @@
 
 @media (min-width: 60rem) {
 
-    .post {
+    .post.is-2-columns {
         display: grid;
         grid-template-columns: 1fr 1fr;
         grid-gap: 10px;
