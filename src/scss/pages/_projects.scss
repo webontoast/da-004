@@ -3,9 +3,16 @@
   &.post-list {
 
     .post-list__items {
-      display: grid;
-      grid-template-columns: 1fr 1fr 1fr;
-      grid-gap: 40px;
+
+      @media (min-width: 48rem) {
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+        grid-gap: 40px;
+      }
+
+      @media (min-width: 75rem) {
+        grid-template-columns: 1fr 1fr 1fr;
+      }
     }
 
     // .post-list__item {

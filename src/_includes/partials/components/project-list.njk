@@ -6,7 +6,7 @@
       <ol class="[ post-list__items ] [ pad-top-300 ]" reversed>
         {% for item in postListItems %}
           {% if item.date.getTime() <= global.now %}
-            <li class="post-list__item gap-bottom-700">
+            <li class="post-list__item gap-bottom-900 md:gap-bottom-700">
               <a href="{{ item.url }}">
                 <figure>
                   <img  class="post-list__image" src="{{ item.data.featuredImage }}" alt="{{ item.data.title }}">
