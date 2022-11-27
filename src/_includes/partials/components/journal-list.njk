@@ -8,9 +8,11 @@
           {% if item.date.getTime() <= global.now %}
             <li class="post-list__item pad-base">
               {% if item.data.featuredImage %}
-                <a href="{{ item.url }}"><figure>
-                  <img class="post-list__image" src="{{ item.data.featuredImage }}" alt="{{ item.data.title }}">
-                </figure></a>
+                <a href="{{ item.url }}">
+                  <figure>
+                    <img class="post-list__image" src="{{ item.data.featuredImage }}" alt="{{ item.data.title }}">
+                  </figure>
+                </a>
               {% endif %}
               {% if item.data.featuredImage %}
               <h3 class="font-base leading-tight text-base weight-medium">
