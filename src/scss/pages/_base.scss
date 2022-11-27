@@ -1,3 +1,10 @@
+.generic-page {
+
+    .post__body figure {
+        max-width: 24rem;
+    }
+}
+
 .page {
     display: flex;
     flex-direction: column;
