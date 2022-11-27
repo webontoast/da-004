@@ -72,4 +72,9 @@
   }
 }
 
+.journal {
 
+  &.post p:last-of-type {
+    margin-bottom: 4rem;
+  }
+}
