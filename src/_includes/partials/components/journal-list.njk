@@ -1,27 +1,34 @@
 {% if postListItems.length %}
-  <section class="[ post-list ] [ pad-top-700 gap-bottom-900 ]">
-    <div class="[ inner-wrapper ] [ sf-flow ]">
-      <h2 class="[ post-list__heading ] [ text-700 md:text-800 ]">{{ postListHeading }}</h2>
-      <ol class="[ post-list__items ] [ sf-flow ] [ pad-top-300 ]" reversed>
+  <section class="[ post-list ] [ pad-top-700 gap-bottom-900 ] journals">
+    <div class="[ fullwidth-wrapper ] [ sf-flow ]">
+      {# <h2 class="[ post-list__heading ] [ text-700 md:text-800 ]">{{ postListHeading }}</h2> #}
+      {# <ol class="[ post-list__items ] [ sf-flow ] [ pad-top-300 ]" reversed> #}
+      <ol class="[ post-list__items ] [ pad-top-300 ]" reversed>
         {% for item in postListItems %}
           {% if item.date.getTime() <= global.now %}
-            <li class="post-list__item">
+            <li class="post-list__item pad-base">
               {% if item.data.featuredImage %}
-                <figure>
-                  <img src="{{ item.data.featuredImage }}" alt="{{ item.data.title }}">
-                </figure>
+                <a href="{{ item.url }}"><figure>
+                  <img class="post-list__image" src="{{ item.data.featuredImage }}" alt="{{ item.data.title }}">
+                </figure></a>
               {% endif %}
-              <h3 class="font-base leading-tight text-600 weight-semi">
+              {% if item.data.featuredImage %}
+              <h3 class="font-base leading-tight text-base weight-medium">
+              {% else %}
+              <h3 class="font-base leading-tight text-600 weight-medium">
+              {% endif %}
                 <a href="{{ item.url }}" class="post-list__link" rel="bookmark">{{ item.data.title }}</a>
               </h3>
-              <p class="text-500 gap-top-300 weight-semi">
+              <p class="text-200 weight-light">
                 <time datetime="{{ item.date | w3DateFilter }}">{{ item.date | dateFilter }}</time>
               </p>
-              {% for item in item.data.tags %}
-                <span class="nav__item">
-                  <a href="/tags/{{ item }}">{{ item }}</a>
-                </span>
-              {% endfor %}
+              <nav class="post-list__tags">
+                {% for item in item.data.tags %}
+                  <span class="nav__item">
+                    <a class="post-list__tag " href="/tags/{{ item }}">{{ item }}</a>
+                  </span>
+                {% endfor %}
+              </nav>
             </li>
           {% endif %}
         {% endfor %}

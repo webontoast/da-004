@@ -1,0 +1,75 @@
+.journals {
+
+  &.post-list {
+
+    .post-list__items {
+
+      display: grid;
+      grid-template-columns: 1fr;
+      grid-gap: 1rem;
+
+      @media (min-width: 48rem) {
+        grid-template-columns: 1fr 1fr 1fr;
+      }
+
+      @media (min-width: 75rem) {
+        grid-template-columns: 1fr 1fr 1fr 1fr;
+      }
+
+      @media (min-width: 90rem) {
+        grid-template-columns: 1fr 1fr 1fr 1fr 1fr;
+      }
+    }
+
+    .post-list__item {
+        background-color: var(--color-bg-dark);
+        display: flex;
+        flex-direction: column;
+        justify-content: space-between;
+        border-radius: 0.25rem;
+
+        &:hover {
+          box-shadow: 0 10px 30px rgb(0 0 0 / 15%);
+          background-color: var(--color-mid);
+        }
+    }
+
+    // .post-list__item {
+    // }
+
+    .post-list__link,
+    .post-list__link:visited {
+      color: var(--color-text);
+    }
+
+    .post-list__image {
+      object-fit: cover;
+      object-position: center;
+      aspect-ratio: 16/9;
+    }
+
+    .post-list__tags {
+    //   text-align: right;
+    //   margin-top: -31px;
+        flex: 2;
+        display: flex;
+        align-items: flex-end;
+
+      .nav__item {
+        font-size: get-size(200);
+        @include apply-utility('weight', 'regular');
+        text-transform: uppercase;
+        margin-right: 0.25rem;
+        padding-bottom: 0;
+
+        .post-list__tag {
+          background-color: var(--color-bg);
+          color: var(--color-text);
+          padding: 4px 6px;
+        }
+      }
+    }
+  }
+}
+
+
