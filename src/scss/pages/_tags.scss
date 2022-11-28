@@ -1,0 +1,26 @@
+.tags {
+
+    .post-list__item {
+        display: flex;
+        align-items: center;
+        border-bottom: 1px solid var(--color-stroke);
+        --flow-space: 1rem;
+        padding-bottom: 1rem;
+
+        // &:last-of-type {
+        //     border-bottom: none;
+        // }
+
+        figure {
+            width: 120px;
+            margin-right: 1.5rem;
+        }
+
+        img {
+            aspect-ratio: 16/10;
+        }
+    }
+    .back-link {
+        text-align: center;
+    }
+}

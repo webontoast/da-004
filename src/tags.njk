@@ -17,6 +17,9 @@ permalink: /tags/{{ tag }}/
 
 {% extends 'layouts/base.njk' %}
 
+{# Body class #}
+{% set bodyClass = 'tags' %}
+
 {# Intro content #}
 {% set introHeading %}Posts filed under “{{ tag }}”{% endset %}
 {% set introHeadingLevel = '2' %}

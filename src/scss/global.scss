@@ -36,7 +36,7 @@ main {
 hr {
   display: block;
   height: 1px;
-  max-width: 500px;
+  // max-width: 500px;
   background: var(--color-stroke);
   border: none;
   margin: get-size(900) auto;
@@ -82,3 +82,4 @@ img {
 @import 'pages/home';
 @import 'pages/projects';
 @import 'pages/journals';
+@import 'pages/tags';
