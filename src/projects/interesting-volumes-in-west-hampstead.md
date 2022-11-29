@@ -6,7 +6,7 @@ tags:
   - Houses
 featuredImage:
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1669719944/Projects/Agamemnon%20Road/West_Hampstead_Architecture_Douglas_Architects_01_wejiuj.jpg
-hideFeaturedImage: true
+hideFeaturedImage: false
 date: 2022-11-29T11:06:29.329Z
 metaTitle: Architecture in West Hampstead
 ---
