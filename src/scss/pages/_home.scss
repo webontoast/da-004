@@ -3,17 +3,22 @@
 }
 
 .home #main-content {
-    display: flex;
-    align-items: stretch;
+    // display: flex;
+    // align-items: stretch;
     background-color: var(--color-bg-dark);
 
-    ul li:nth-child(2),
-    ul li:nth-child(3) {
-        display: none;
+    // ul li:nth-child(2),
+    // ul li:nth-child(3) {
+    //     display: none;
+    // }
+
+    .slider-item__image {
+        aspect-ratio: 16 / 10;
+        object-fit: cover;
     }
 
-    div {
-        padding: 20px;
+    .slider-item__copy {
+        padding: 1.75rem;
     }
 
     p {
@@ -25,20 +30,21 @@
 
     .home #main-content {
         
-        ul {
+        .slider {
             width: 100%;
+            height: 100%;
         }
 
-        li {
+        .slider-item {
             display: flex;
             align-items: self-end;
             flex-direction: row-reverse;
             justify-content: space-between;
-            height: 100%;
+            // height: 100%;
         }
 
-        div {
-            padding: 0 2.5rem 5rem 5rem;
+        .slider-item__copy {
+            padding: 0 2.5rem 5rem 6rem;
             flex: 0.33
         }
 
@@ -49,7 +55,7 @@
         figure {
             height: 100%;
             flex: 0.66;
-            display: flex;
+            // display: flex;
             justify-content: flex-end;
 
             img {
@@ -59,3 +65,65 @@
         }
     }
 }
+
+.main-carousel {
+    // height: 100%;
+    height: calc( 100vh - (84px + 242px));
+}
+
+.flickity-slider {
+    width: 100%;
+}
+
+.carousel-cell {
+    width: 100%; /* full width */
+    height: 100%; 
+    // margin-right: 10px;
+}
+
+// Prev/Next Buttons 
+
+/* no circle */
+// .flickity-button {
+//     background: rgba(255,255,255,0.5);
+// }
+
+/* icon color */
+// .flickity-button-icon {
+//     fill: black;
+// }
+
+// .flickity-prev-next-button {
+//     width: 32px;
+//     height: 32px;
+// }
+
+// Dots 
+
+/* position dots up a bit */
+.flickity-page-dots {
+    bottom: 22px;
+}
+
+/* dots are lines */
+.flickity-page-dots .dot {
+    height: 4px;
+    width: 40px;
+    margin: 1px;
+    border-radius: 0;
+}
+
+// @media (max-width: 59.99rem) {
+//     .flickity-button {
+//         display: none;
+//     }
+// }
+
+@media (min-width: 60rem) {
+
+    .flickity-page-dots {
+        text-align: left;
+        padding-left: 5.5rem;
+    }
+}
+

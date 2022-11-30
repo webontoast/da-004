@@ -1,29 +1,29 @@
-<ul>
-  <li>
+<ul class="slider main-carousel">
+  <li class="slider-item carousel-cell">
     <figure>
-      <img src="{{ projectsImg }}" alt="{{ projects }}">
+      <img class="slider-item__image" src="{{ projectsImg }}" alt="{{ projects }}">
     </figure>
-    <div>
+    <div class="slider-item__copy">
       <p class="text-600 xl:text-650 gap-bottom-base">{{ projectsText }}</p>
       <a class="button text-300" href="{{ projectsUrl }}">{{ projectsCTA }}</a>
     </div>
   </li>
   
-  <li>
+  <li class="slider-item carousel-cell">
     <figure>
-      <img src="{{ aboutImg }}" alt="{{ about }}">
+      <img class="slider-item__image" src="{{ aboutImg }}" alt="{{ about }}">
     </figure>
-    <div>
+    <div class="slider-item__copy">
       <p class="text-600 xl:text-650 gap-bottom-base">{{ aboutText }}</p>
       <a class="button text-300" href="{{ aboutUrl }}">{{ aboutCTA }}</a>
     </div>
   </li>
 
-  <li>
+  <li class="slider-item carousel-cell">
     <figure>
-      <img src="{{ contactImg }}" alt="{{ contact }}">
+      <img class="slider-item__image" src="{{ contactImg }}" alt="{{ contact }}">
     </figure>
-    <div>
+    <div class="slider-item__copy">
       <p class="text-600 xl:text-650 gap-bottom-base">{{ contactText }}</p>
       <a class="button text-300" href="{{ contactUrl }}">{{ contactCTA }}</a>
     </div>
