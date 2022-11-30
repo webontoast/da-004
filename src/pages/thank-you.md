@@ -1,6 +1,7 @@
 ---
-title: 'Thank you'
-permalink: '/thank-you/index.html'
+title: Thank you
+permalink: /thank-you/index.html
 ---
+Thank you for your message. Will be get back to you shortly. 
 
-This is your thank you page where if someone fills in your contact form, they will be directed to. Make sure you add a nice message 🙂
+In the meantime feel free to browse our our work in the [Projects](/projects/) section.
