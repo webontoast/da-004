@@ -68,7 +68,7 @@
 
 .main-carousel {
     // height: 100%;
-    height: calc( 100vh - (84px + 242px));
+    height: calc( 100vh - (84px + 178px));
 }
 
 .flickity-slider {
@@ -121,6 +121,11 @@
 
 @media (min-width: 60rem) {
 
+    .main-carousel {
+        // height: 100%;
+        height: calc( 100vh - (84px + 130px));
+    }
+    
     .flickity-page-dots {
         text-align: left;
         padding-left: 5.5rem;
