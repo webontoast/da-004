@@ -8,6 +8,7 @@ featuredImage:
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1669719944/Projects/Agamemnon%20Road/West_Hampstead_Architecture_Douglas_Architects_01_wejiuj.jpg
 hideFeaturedImage: false
 imageGallery:
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1669812577/Projects/Agamemnon%20Road/interior_design_west_hampstead_od5ftv.jpg
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1669811826/Projects/Agamemnon%20Road/Architecture_in_West_Hampstead_wifuxd.jpg
 date: 2022-11-29T11:06:29.329Z
 metaTitle: Architecture in West Hampstead
