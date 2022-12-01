@@ -8,9 +8,11 @@
   <link rel="icon" href="{{ site.faviconPath }}" type="image/png" />
   {% include "partials/global/meta-info.njk" %}
   <script>document.documentElement.classList.remove('no-js');</script>
+  <script src="https://polyfill.io/v3/polyfill.min.js?features=default"></script>
   <style>{% include "assets/css/global.css" %}</style>
   {% block head %}
   {% endblock %}
+  <script type="module" src="/js/components/map.js"></script>
 </head>
 <body class="{{ bodyClass }}" >
   <a class="skip-link" href="#main-content">Skip to content</a>
@@ -39,5 +41,6 @@
     }
   </script>
   <script src="https://identity.netlify.com/v1/netlify-identity-widget.js" defer></script>
+  <script src="https://maps.googleapis.com/maps/api/js?key=AIzaSyB7ZceE5bUK7pynHOOVgj83P58kpMUR1hs&callback=initMap&v=weekly" defer></script>
 </body>
 </html>
