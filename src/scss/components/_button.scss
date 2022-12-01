@@ -30,3 +30,10 @@
 .button:active {
   transform: scale(0.99);
 }
+
+.button.muted {
+  background-color: transparent;
+  color: var(--color-action-bg);
+  border: 1px solid var(--color-action-bg);
+  padding: 0.5rem;
+}
