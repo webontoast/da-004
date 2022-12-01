@@ -3,16 +3,57 @@
   background: var(--color-bg-glare);
   color: var(--color-text);
   border-top: 1px solid var(--color-stroke);
+  background: var(--color-bg-mid);
 
   a {
     color: currentColor;
+    text-decoration: none;
 
     &:hover {
-      text-decoration: none;
+      text-decoration: underline;
     }
   }
 
-  &__credit {
-    text-align: center;
+  .nav__item {
+    font-size: 0.75rem;
+    // padding-top: 0;
   }
+
+  
+
+  .riba-logo {
+    max-width: 32px;
+    margin-top: var(--flow-space);
+    margin-right: 0.5rem;
+  }
+
+  .site-foot__details {
+    display: flex;
+    align-items: center;
+  }
+
+  .button {
+    padding: 0.875rem 0.675rem;
+    margin-left: 0.675rem;
+  }
+
+  .instagram-link {
+    margin-left: 0.675rem;
+  }
+
+  @media (max-width:47.99rem) {
+    
+    .site-foot__details,
+    .site-foot__credit {
+      text-align: center;
+    }
+  }
+
+  @media (min-width:48rem) {
+
+    .site-foot__credit {
+      margin-left: 2.5rem;
+    }
+  }
+
 }
