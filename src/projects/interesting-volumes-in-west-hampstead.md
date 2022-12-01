@@ -1,6 +1,6 @@
 ---
 layout: layouts/project.njk
-title: Charachterful Volumes in West Hampstead
+title: Characterful Volumes in West Hampstead
 projectDesc: A rear extension to an existing terraced house
 tags:
   - Houses
