@@ -56,6 +56,10 @@ img {
  * PROJECT IMPORTS
  */
 
+// Vendor
+@import 'vendor/flickity';
+@import 'vendor/flickity-fade';
+
 // Utils
 @import 'utilities/fullwidth-wrapper';
 @import 'utilities/inner-wrapper';

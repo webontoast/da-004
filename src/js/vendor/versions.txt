@@ -1,0 +1,7 @@
+https://unpkg.com/flickity@2.3.0/dist/flickity.min.css
+https://unpkg.com/flickity@2.3.0/dist/flickity.css
+https://unpkg.com/flickity-fade@1.0.0/flickity-fade.css
+https://unpkg.com/flickity@2.3.0/dist/flickity.pkgd.min.js
+https://unpkg.com/flickity-fade@1.0.0/flickity-fade.js
+https://unpkg.com/jquery@3.3.1/dist/jquery.min.js
+https://unpkg.com/shufflejs@6.1.0/dist/shuffle.min.js

@@ -2,11 +2,10 @@
   <section class="[ post-list ] [ pad-top-max gap-bottom-900 ]">
     <div class="[ wide-wrapper ] [ sf-flow ]">
       {# <h2 class="[ post-list__heading ] [ text-700 md:text-800 ]">{{ postListHeading }}</h2> #}
-      {# <ol class="[ post-list__items ] [ sf-flow ] [ pad-top-300 ]" reversed> #}
-      <ol class="[ post-list__items ] [ pad-top-300 ]" reversed>
+      <ol class="shuffle-container [ post-list__items ] [ pad-top-300 ]" reversed>
         {% for item in postListItems %}
           {% if item.date.getTime() <= global.now %}
-            <li class="post-list__item gap-bottom-900 md:gap-bottom-700">
+            <li class="post-list__item gap-bottom-900 md:gap-bottom-700" data-groups='[{% set comma = joiner() %}"all",{% for item in item.data.tags -%}{{ comma() }}"{{ item }}"{%- endfor %}]'>
               <a href="{{ item.url }}">
                 <figure>
                   <img class="post-list__image" src="{{ item.data.featuredImage }}" alt="{{ item.data.title }}">
@@ -19,12 +18,14 @@
                 </span>
                 {% endfor %}
               </nav>
-              <h3 class="font-base leading-tight text-base weight-medium">
-                <a href="{{ item.url }}" class="post-list__link" rel="bookmark">{{ item.data.title }}</a>
-              </h3>
-              <p class="text-300 weight-light">
-                {{ item.data.projectDesc }}
-              </p>
+              <div class="post-list__copy">
+                <h3 class="font-base leading-tight text-base weight-medium">
+                  <a href="{{ item.url }}" class="post-list__link" rel="bookmark">{{ item.data.title }}</a>
+                </h3>
+                <p class="text-300 weight-light">
+                  {{ item.data.projectDesc }}
+                </p>
+              </div>
             </li>
           {% endif %}
         {% endfor %}
