@@ -121,13 +121,13 @@
   }
 
   &__footer {
-    background: var(--color-light-dark);
+    background: var(--color-bg-dark);
     border-top: 1px solid var(--color-stroke);
 
     h2 {
       flex-shrink: 0;
       margin-right: get-size('base');
-      color: var(--color-dark);
+      color: var(--color-text);
     }
 
     h2 a {
