@@ -81,12 +81,21 @@
 
 .sub-nav {
 
+  @media (max-width: 47.99rem) {
+    flex-wrap: wrap;
+    padding: 1rem 2rem;
+  }
+
   .nav__item {
     cursor: pointer;
 
     &.selected,
     &:hover {
       text-decoration: underline;
+    }
+
+    @media (max-width: 47.99rem) {
+      padding: 0.25rem 0;
     }
   }
 }
