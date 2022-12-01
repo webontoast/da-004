@@ -26,7 +26,7 @@
 @include dark-mode() {
   --color-bg: #{get-color('dark')};
   --color-bg-glare: #{get-color('slate')};
-  --color-text: #{get-color('light')};
+  --color-text: #{get-color('mid')};
   --color-selection-text: #{get-color('dark')};
   --color-selection-bg: #{get-color('light')};
   --color-stroke: #{get-color('slate')};
@@ -36,7 +36,7 @@
   --color-action-text: #{get-color('dark')};
   --color-theme-highlight: #{get-color('highlight')};
   --color-theme-highlight-block: #{get-color('slate')};
-  --color-theme-feature-text: #{get-color('light')};
+  --color-theme-feature-text: #{get-color('mid')};
   --color-bg-mid: #{get-color('slate')};
   --color-bg-dark: #{get-color('dark')};
 }
