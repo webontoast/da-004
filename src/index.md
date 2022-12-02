@@ -7,7 +7,7 @@ projects:
   projects_cta: View Projects
   projects_url: /projects/
   projects_img:
-    - https://res.cloudinary.com/dvzwcttpm/image/upload/v1669470896/Homepage/allerton-road-architecture-douglas-architects-02_ld1ikz.jpg
+    - https://res.cloudinary.com/dvzwcttpm/image/upload/v1669975758/Homepage/West_Hampstead_Architecture_Douglas_Architects_01_twg3us.jpg
 about:
   about_text: The studio is led by Craig who has over 25 years experience working
     in architecture.
