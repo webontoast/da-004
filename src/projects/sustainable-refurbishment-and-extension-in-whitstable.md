@@ -1,7 +1,7 @@
 ---
 layout: layouts/project.njk
 title: Sustainable Refurbishment and Extension in Whitstable
-projectDesc: A new life for an old house
+projectDesc: A new life for a well loved old house
 tags:
   - HOUSES
 featuredImage:
