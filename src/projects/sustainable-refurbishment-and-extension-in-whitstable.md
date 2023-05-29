@@ -10,7 +10,7 @@ imageGallery:
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1685375694/Architecture_Whitstable_Tankerton_Front_Elevation_o44nn1.jpg
 date: 2023-05-29T15:49:42.974Z
 ---
-Our client wanted to increase the size of thei existing detached single storey house. We looked into the idea of demolishing the existing house and building a new, bigger one in its place. However, we decided that improving the existing house and then extending it would be a more sustainable and in the end, more interesting and appropriate way to go about the project.r
+Our client wanted to increase the size of their existing detached single storey house. We looked into the idea of demolishing the existing house and building a new, bigger one in its place. However, we decided that improving the existing house and then extending it would be a more sustainable and in the end, more interesting and appropriate way to go about the project.
 
 
 
