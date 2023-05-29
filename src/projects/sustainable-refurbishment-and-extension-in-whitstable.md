@@ -2,6 +2,8 @@
 layout: layouts/project.njk
 title: Sustainable Refurbishment and Extension in Whitstable
 projectDesc: A new home developed out of an existing one
+tags:
+  - HOUSES
 featuredImage:
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1685375694/Architecture_Whitstable_Tankerton_Front_Elevation_o44nn1.jpg
 imageGallery:
