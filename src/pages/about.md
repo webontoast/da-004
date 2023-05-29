@@ -11,6 +11,6 @@ Recently completed projects include the renovation of a Grade II* listed buildin
 
 The studio is led by Craig who has over 25 years experience working in architecture. He worked in Dusseldorf, Berlin and Dublin before moving to London in 1999. He has designed projects on greenfield and brownfield sites and has worked with listed and locally listed buildings.
 
-Craig is a visiting lecturer at the London School of Film, Media & Design at University of West London.
+Craig is also a visiting lecturer at the London School of Film, Media & Design at University of West London.
 
 Douglas Architects is an RIBA Chartered Practice and alongside the full architecture and design service we also offer specialist services including interior design, feasibility studies and planning applications.
