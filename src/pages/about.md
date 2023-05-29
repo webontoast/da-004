@@ -14,8 +14,4 @@ The studio is led by Craig who has over 25 years experience working in architect
 
 Craig is a visiting lecturer at the London School of Film, Media & Design at University of West London.
 
-He worked at RMJM London for 3 years before co-founding Douglas and King Architects in 2002. He was a director there for 11 years before leaving to set up Douglas Architects in April 2013.
-
-Craig studied architecture at the University of Liverpool, Canterbury School of Architecture and the Dusseldorf Fachhochschule. 
-
 Douglas Architects is an RIBA Chartered Practice and alongside the full architecture and design service we also offer specialist services including interior design, feasibility studies and planning applications.
