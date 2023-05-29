@@ -1,6 +1,8 @@
 ---
 layout: layouts/journal.njk
 title: Sustainable Building with Timber Structure
+tags:
+  - JOURNALS
 featuredImage:
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1684934912/Nevill_Road_Architecture_Sustainability_mpyxjy.jpg
 imageGallery: ""
