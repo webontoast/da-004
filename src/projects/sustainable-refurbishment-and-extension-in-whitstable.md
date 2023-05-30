@@ -1,6 +1,6 @@
 ---
 layout: layouts/project.njk
-title: Sustainable Refurbishment and Extension in Whitstable
+title: Sustainable Refurbishment and Extension in Tankerton
 projectDesc: A new life for a well loved old house
 tags:
   - HOUSES
