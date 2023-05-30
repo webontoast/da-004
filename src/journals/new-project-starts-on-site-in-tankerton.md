@@ -3,7 +3,8 @@ layout: layouts/journal.njk
 title: New Project Starts on Site in Whitstable
 tags:
   - Construction
-featuredImage: ""
+featuredImage:
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1685468269/Whitstable_architecture_iiyf2z.jp2
 date: 2023-05-30T17:29:55.433Z
 ---
 Our project to renovate and extend a detached family house in Whitstable, Kent is well underway. Lots of demolition work has been carried out and the foundations and below ground drainage are nearly complete. 
