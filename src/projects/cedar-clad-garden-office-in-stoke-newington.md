@@ -14,7 +14,7 @@ date: 2022-10-17T09:53:10.020Z
 ---
 An easy way to make room for a new bedroom.
 
-body:
+
 We have completed our second garden office in Stoke Newington. This office is built on the same principles as our first one – low impact foundations, timber framed structure and cedar cladding to the outer skin.
 
 We had to squeeze this office into the space at the end of the garden, underneath an apple tree. The structure and foundations had to be designed to accommodate these tight site constraints.
