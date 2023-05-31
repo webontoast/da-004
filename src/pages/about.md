@@ -3,7 +3,7 @@ layout: layouts/page.njk
 title: About
 permalink: /about/index.html
 ---
-![Douglas Architects](/images/craig-douglas-architect-2.jpeg "Craig Douglas")
+![Douglas Architects](/images/craig-douglas-architect-2.jpeg "Craig Douglas, RIBA, Dip Arch, BA Hons.")
 
 Douglas Architects is an architecture and design studio based in London. It was set up by Craig Douglas in 2013. We work on new and existing homes, interiors and furniture design.
 
