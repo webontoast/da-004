@@ -5,7 +5,7 @@ permalink: /about/index.html
 ---
 ![Douglas Architects](/images/craig-douglas-architect-2.jpeg "Craig Douglas")
 
-Douglas Architects is an architecture and design studio based in London and set up by Craig Douglas. We work on new and existing homes, interiors and furniture design.
+Douglas Architects is an architecture and design studio based in London. It was set up by Craig Douglas in 2013. We work on new and existing homes, interiors and furniture design.
 
 Recently completed projects include the renovation of a Grade II* listed building in Soho, the refurbishment and extension of a brick farm cottage in Suffolk, two bespoke cedar clad garden office studios in Stoke Newington and an extension to a terraced house in West Hampstead.  Regardless of size or location, our goal is to pay attention to detail at all stages of our projects in order to make building work for our clients.
 
