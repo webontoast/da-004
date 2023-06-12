@@ -2,8 +2,7 @@
 layout: home
 title: Home
 projects:
-  projects_text: " Douglas Architects is an architecture and design studio based
-    in Islington, London."
+  projects_text: " Douglas Architects is an architecture and design studio based in London."
   projects_cta: View Projects
   projects_url: /projects/
   projects_img:
