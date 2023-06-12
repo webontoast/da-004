@@ -15,7 +15,7 @@ imageGallery:
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666981197/Projects/Renovation%20and%20Extension%20in%20Stoke%20Newington/Architect-in-Hackney-Douglas-Architects-LOR04_kybed7.jpg
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666981197/Projects/Renovation%20and%20Extension%20in%20Stoke%20Newington/Extension-in-Hackney-Douglas-Architects-LOR06_hkj8jk.jpg
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666981197/Projects/Renovation%20and%20Extension%20in%20Stoke%20Newington/Rear-extension-in-Stoke-Newington-Hackney-LOR05_xwhamn.jpg
-date: 2022-10-16T17:08:04.053Z
+date: 2023-06-12T12:30:37.928Z
 ---
 Our project to extend and remodel a ground floor flat in Stoke Newington is now complete. The clients’ brief was to extend the property and remodel the interior in order to provide a third bedroom, to increase the size of the living area, to add an ensuite bathroom, a utility room and loads of new easily accessible storage space. To achieve all this, the interior of the flat has been completely remodelled and a substantial extension has been added at the rear.
 
