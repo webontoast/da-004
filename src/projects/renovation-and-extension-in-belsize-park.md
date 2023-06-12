@@ -14,7 +14,7 @@ imageGallery:
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666981666/Projects/Renovation%20and%20extension%20in%20Belsize%20Park/douglas_architects_extension_de_beauvoir_hackney_uq1cuf.jpg
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666981666/Projects/Renovation%20and%20extension%20in%20Belsize%20Park/douglas-architects-belsize-park_lb5zel.jpg
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666981666/Projects/Renovation%20and%20extension%20in%20Belsize%20Park/beautiful-house-de-beauvoir-hackney-douglas-architects-1_nl8ptp.jpg
-date: 2022-10-16T16:47:06.968Z
+date: 2023-06-12T13:45:54.138Z
 ---
 In November 2015 we completed the refurbishment, remodeling and extension of a 1960’s terraced house in Belsize Park. The project was the result of a close collaboration with the clients, first stage design architects AND.gb and Douglas Architects.
 
