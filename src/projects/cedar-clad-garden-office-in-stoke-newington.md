@@ -14,7 +14,6 @@ date: 2023-06-12T12:00:06.638Z
 ---
 An easy way to make room for a new bedroom.
 
-
 We have completed our second garden office in Stoke Newington. This office is built on the same principles as our first one – low impact foundations, timber framed structure and cedar cladding to the outer skin.
 
 We had to squeeze this office into the space at the end of the garden, underneath an apple tree. The structure and foundations had to be designed to accommodate these tight site constraints.
@@ -25,5 +24,4 @@ By moving the home office out into the garden a room has been made available in 
 
 **Project Team:**
 
-Structural engineers: **Conisbee**\
-Main contractor: **London Expert Builders**
+Structural engineers: **Conisbee**
