@@ -13,7 +13,6 @@ imageGallery:
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666981463/Projects/Garden%20Workspace%20in%20Hackney/Douglas_Architects_Illustrators_Studio_Hackney_04jpg_lc7boa.jpg
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666981463/Projects/Garden%20Workspace%20in%20Hackney/Douglas_Architects_Illustrators_Studio_Hackney_05_boxlcd.jpg
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666981463/Projects/Garden%20Workspace%20in%20Hackney/Douglas_Architects_Illustrators_Studio_in_Hackney_07jpg_nmkbqj.jpg
-  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666981463/Projects/Garden%20Workspace%20in%20Hackney/Douglas_Architects_Illustrators_Studio_08_pqqadh.jpg
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666981463/Projects/Garden%20Workspace%20in%20Hackney/garden-studio-in-hackney-by-douglas-architects-01_qyzekn.jpg
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666981464/Projects/Garden%20Workspace%20in%20Hackney/illustrators-shed-and-garden-office-studio-in-hackney_c7zwit.jpg
 date: 2023-06-12T13:53:59.313Z
