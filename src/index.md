@@ -6,7 +6,7 @@ projects:
   projects_cta: View Projects
   projects_url: /projects/
   projects_img:
-    - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666981464/Projects/Garden%20Workspace%20in%20Hackney/garden-studio-in-stoke-newington-by-douglas-architects_xq4yab.jpg
+    - https://res.cloudinary.com/dvzwcttpm/image/upload/w_1000,ar_1:1,c_fill,g_auto,e_art:hokusai/v1667143860/Journals/garden-studio-in-stoke-newington-by-douglas-architects_of87yz.jpg
 about:
   about_text: The studio is led by Craig who has over 25 years experience working
     in architecture.
