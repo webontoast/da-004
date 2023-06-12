@@ -8,7 +8,7 @@ featuredImage: /images/architecture-in-stoke-newington-rear-extension-01.jpeg
 imageGallery:
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666981105/Projects/Two%20stage%20development%20in%20Stoke%20Newington/Glazed-extension-with-brick-work-stoke-newington_zr48nw.jpg
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666981105/Projects/Two%20stage%20development%20in%20Stoke%20Newington/Exposed-brick-work-and-glass-rear-extension-stoke-newington_r2nk5q.jpg
-date: 2022-10-17T09:46:21.978Z
+date: 2023-06-12T12:45:50.223Z
 ---
 This project involved renovating the existing terraced family house, adding a loft extension and adding a rear ground floor extension. The loft extension and upper storey renovation work were kept as simple and straightforward as possible, so that we could concentrate on the new kitchen and dining area at ground floor level.
 
