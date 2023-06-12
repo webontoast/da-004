@@ -10,7 +10,7 @@ hideFeaturedImage: false
 imageGallery:
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1669812577/Projects/Agamemnon%20Road/interior_design_west_hampstead_od5ftv.jpg
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1669811826/Projects/Agamemnon%20Road/Architecture_in_West_Hampstead_wifuxd.jpg
-date: 2022-11-29T11:06:29.329Z
+date: 2023-06-12T12:15:08.725Z
 metaTitle: Architecture in West Hampstead
 ---
 We worked closely with our clients to produce this bright, sculptural rear extension in West Hampstead.
