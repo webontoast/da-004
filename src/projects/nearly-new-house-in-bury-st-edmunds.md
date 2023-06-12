@@ -7,7 +7,6 @@ tags:
 featuredImage: https://res.cloudinary.com/dvzwcttpm/image/upload/v1666972454/Projects/Nearly%20New%20House%20in%20Bury%20St%20Edmunds/Thermal-insulation-suffolk-architecture-e1647611068749_zhy5mn.jpg
 hideFeaturedImage: true
 imageGallery:
-  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666972454/Projects/Nearly%20New%20House%20in%20Bury%20St%20Edmunds/Thermal-insulation-suffolk-architecture-e1647611068749_zhy5mn.jpg
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666972454/Projects/Nearly%20New%20House%20in%20Bury%20St%20Edmunds/HOS_interior_01_Nov_2021_z1v8yp.jpg
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666972459/Projects/Nearly%20New%20House%20in%20Bury%20St%20Edmunds/HRdrawinggrey2_qspzdo.jpg
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666972455/Projects/Nearly%20New%20House%20in%20Bury%20St%20Edmunds/Cover_house_site_plan_zdipnm.jpg
