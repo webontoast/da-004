@@ -16,7 +16,7 @@ imageGallery:
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666981463/Projects/Garden%20Workspace%20in%20Hackney/Douglas_Architects_Illustrators_Studio_08_pqqadh.jpg
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666981463/Projects/Garden%20Workspace%20in%20Hackney/garden-studio-in-hackney-by-douglas-architects-01_qyzekn.jpg
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666981464/Projects/Garden%20Workspace%20in%20Hackney/illustrators-shed-and-garden-office-studio-in-hackney_c7zwit.jpg
-date: 2023-06-12T17:00:09.360Z
+date: 2023-06-12T13:53:59.313Z
 ---
 Our design for a studio for an illustrator starts with the notion of a creative shed surrounded by trees. The outside is designed to be rough and textured to blend in to its very leafy surroundings, while the inside is all about simplicity and light.
 
