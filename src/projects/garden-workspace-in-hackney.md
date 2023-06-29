@@ -13,11 +13,10 @@ imageGallery:
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666981463/Projects/Garden%20Workspace%20in%20Hackney/Douglas_Architects_Illustrators_Studio_Hackney_04jpg_lc7boa.jpg
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666981463/Projects/Garden%20Workspace%20in%20Hackney/Douglas_Architects_Illustrators_Studio_Hackney_05_boxlcd.jpg
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666981463/Projects/Garden%20Workspace%20in%20Hackney/Douglas_Architects_Illustrators_Studio_in_Hackney_07jpg_nmkbqj.jpg
-  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666981463/Projects/Garden%20Workspace%20in%20Hackney/garden-studio-in-hackney-by-douglas-architects-01_qyzekn.jpg
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666981464/Projects/Garden%20Workspace%20in%20Hackney/illustrators-shed-and-garden-office-studio-in-hackney_c7zwit.jpg
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1688036932/Douglas_Architects_Illustrators_Studio_Site_Plan_lssk22.jpg
-  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1688036954/Hackney_garden_studio_cedar_cladding_plan_f1frrc.jpg
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1688036955/Hackney_garden_studio_front_elevation_wn3zkc.jpg
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1688036954/Hackney_garden_studio_cedar_cladding_plan_f1frrc.jpg
 date: 2023-06-12T13:53:59.313Z
 ---
 Our design for a studio for an illustrator starts with the notion of a creative shed surrounded by trees. The outside is designed to be rough and textured to blend in to its very leafy surroundings, while the inside is all about simplicity and light.
