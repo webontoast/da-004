@@ -13,6 +13,7 @@ imageGallery:
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666972454/Projects/Nearly%20New%20House%20in%20Bury%20St%20Edmunds/HOS_interior_01_Nov_2021_z1v8yp.jpg
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666972455/Projects/Nearly%20New%20House%20in%20Bury%20St%20Edmunds/Cover_house_site_plan_zdipnm.jpg
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1688906260/Suffolk_Energy_efficient_house_kylrew.jpg
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1689935724/Bury_St_Edmunds_energy_efficient_house_Douglas_Architects_modrr6.jpg
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666972455/Projects/Nearly%20New%20House%20in%20Bury%20St%20Edmunds/Cover_house_ground_floor_plan_proposed_nxd3pf.jpg
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666972456/Projects/Nearly%20New%20House%20in%20Bury%20St%20Edmunds/Cover_house_first_ploor_plan_proposed_uxcswl.jpg
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1666972456/Projects/Nearly%20New%20House%20in%20Bury%20St%20Edmunds/Cover_house_rear_elev_proposed_acrmot.jpg
