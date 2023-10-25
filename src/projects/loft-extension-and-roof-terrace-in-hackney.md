@@ -2,6 +2,8 @@
 layout: layouts/project.njk
 title: Loft Extension and Roof Terrace in Hackney
 projectDesc: A new room and outdoor space for a growing family
+tags:
+  - Houses
 featuredImage:
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1698247794/Roof_terrace_in_stoke_newington_Douglas_Architects_pzamga.jpg
 imageGallery:
