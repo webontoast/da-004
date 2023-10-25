@@ -5,7 +5,8 @@ projectDesc: A new room and outdoor space for a growing family
 tags:
   - HOUSES
 featuredImage:
-  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1684934912/Nevill_Road_Architecture_Sustainability_mpyxjy.jpg
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1698247794/Roof_terrace_in_stoke_newington_Douglas_Architects_pzamga.jpg
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1698247053/Douglas_Architects_Stoke_Newington_Loft_Extension_with_Roof_Terrace_kquc2z.jpg
 imageGallery:
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1698247794/Roof_terrace_in_stoke_newington_Douglas_Architects_pzamga.jpg
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1698248084/Loft_extension_stoke_newington_Hackney_Douglas_Architects_ptcahz.jpg
