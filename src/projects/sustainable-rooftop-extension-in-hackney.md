@@ -8,7 +8,6 @@ featuredImage:
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1698247794/Roof_terrace_in_stoke_newington_Douglas_Architects_pzamga.jpg
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1698247053/Douglas_Architects_Stoke_Newington_Loft_Extension_with_Roof_Terrace_kquc2z.jpg
 imageGallery:
-  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1698247794/Roof_terrace_in_stoke_newington_Douglas_Architects_pzamga.jpg
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1698248084/Loft_extension_stoke_newington_Hackney_Douglas_Architects_ptcahz.jpg
 date: 2023-05-25T11:50:24.055Z
 ---
