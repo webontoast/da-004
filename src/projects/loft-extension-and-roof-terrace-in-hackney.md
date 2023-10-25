@@ -7,8 +7,8 @@ tags:
 featuredImage:
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1698247794/Roof_terrace_in_stoke_newington_Douglas_Architects_pzamga.jpg
 imageGallery:
-  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1698248084/Loft_extension_stoke_newington_Hackney_Douglas_Architects_ptcahz.jpg
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1698247053/Douglas_Architects_Stoke_Newington_Loft_Extension_with_Roof_Terrace_kquc2z.jpg
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1698248084/Loft_extension_stoke_newington_Hackney_Douglas_Architects_ptcahz.jpg
 date: 2023-05-12T15:51:00.000Z
 ---
 Our clients wanted to add a new bedroom and bathroom to their maisonette in Stoke Newington. A mansard loft extension seemed like the obvious solution for this. However, they also wanted some outdoor space, so we looked into possible locations for a roof terrace and eventually settled on making the terrace part of the mansard extension project.
