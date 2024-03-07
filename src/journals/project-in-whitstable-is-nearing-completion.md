@@ -1,0 +1,14 @@
+---
+layout: layouts/journal.njk
+title: Project in Whitstable is Nearing Completion
+tags:
+  - Housing
+featuredImage:
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1709821246/Douglas_Architects_Whitstable_refurbishment_copy_guljfz.jpg
+imageGallery:
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1709819932/Douglas_Architects_Whitstable_RetroFit_iblsga.jpg
+date: 2024-03-07T13:43:41.153Z
+---
+Our project to carry out a substantial extension and renovation to a single storey house in Whitstable is nearing completion. We are starting to see things coming together and we are really looking forward to seeing the completed project.
+
+Recent changes in the building regulations have resulted in the requirement for increased levels of insulation in walls, floors and roofs, which is a good thing and we have been working closely and intensively with the main contractor and the approved inspector for building control to make sure that we deliver the most sustainable project that we can.
