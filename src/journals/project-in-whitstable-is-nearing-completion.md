@@ -1,0 +1,8 @@
+---
+layout: layouts/journal.njk
+title: Project in Whitstable is Nearing Completion
+tags:
+  - Housing
+date: 2024-03-07T13:43:41.153Z
+---
+Our project to carry out a substantial extension and renovation project in Whitstable is nearing completion. We are starting to see things coming together and we are really looking forward to seeing the completed project.
