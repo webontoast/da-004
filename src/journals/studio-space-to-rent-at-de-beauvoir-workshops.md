@@ -2,7 +2,7 @@
 layout: layouts/journal.njk
 title: Studio Space To Rent at De Beauvoir Workshops
 tags:
-  - News Workspace Deskshare Islington Hackney
+  - News
 featuredImage:
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1727357799/Space_Snap_2_wnbjyd.jpg
 hideFeaturedImage: false
