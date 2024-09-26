@@ -7,7 +7,6 @@ featuredImage:
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1727357799/Space_Snap_2_wnbjyd.jpg
 hideFeaturedImage: false
 imageGallery:
-  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1727357799/Space_Snap_2_wnbjyd.jpg
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1727357797/Snap_3_cxy87o.jpg
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1727357796/5.Studio_smnyso.jpg
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1727357796/2.Studio_uylpju.jpg
