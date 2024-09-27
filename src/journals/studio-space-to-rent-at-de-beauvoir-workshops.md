@@ -13,8 +13,8 @@ imageGallery:
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1727446416/desk_space_rent_islington_gfmvpp.jpg
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1727446416/desk_space_rent_de_beauvoir_bnudgp.jpg
 date: 2024-09-26T13:26:23.410Z
-metaTitle: News Workspace Deskshare Islington Hackney
-metaDesc: News Workspace Deskshare Islington Hackney
+metaTitle: Workspace Deskshare Islington Hackney
+metaDesc: Workspace Deskshare Islington Hackney
 ---
 W﻿e have some spare studio space to rent out in our lovely studio in De Beauvoir Workshops. The space is around 9sq.m and costs £520 per month.  Bills and broadband are included. Shared meeting/dining space with fridge, microwave etc also included.
 
