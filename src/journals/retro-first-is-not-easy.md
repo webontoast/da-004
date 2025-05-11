@@ -5,8 +5,7 @@ tags:
   - HousesRetroFirst
 featuredImage:
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1686837891/Retro_fit_house_suffolk_Douglas_Architects_ae8tpf.jpg
-imageGallery:
-  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1686837891/Retro_fit_house_suffolk_Douglas_Architects_ae8tpf.jpg
+imageGallery: ""
 date: 2025-05-11T08:49:10.508Z
 ---
 Our nearly new house in Bury St Edmunds
