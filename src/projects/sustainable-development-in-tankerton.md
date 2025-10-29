@@ -14,7 +14,7 @@ imageGallery:
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1761739757/Sea_front_8_vla06u.jpg
 date: 2025-10-29T11:57:19.833Z
 ---
-Our project to fully renovate and extend a detached family house in Tankerton, in Kent is now complete.
+Our project to fully renovate and extend a detached family house in Tankerton, Kent is now complete.
  
 
 Our client wanted to increase the size of the existing detached single story house. We looked into the idea of demolishing it and building a new, bigger one in its place. However, we decided that improving the existing house and then extending it would be a more sustainable and in the end, more interesting and appropriate way to go about the project.
