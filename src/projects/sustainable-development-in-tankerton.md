@@ -5,7 +5,7 @@ projectDesc: New life for a much-loved house by the sea.
 tags:
   - Houses
 featuredImage:
-  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1761739602/Sea_front_09_eof1mj.jpg
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1761739532/Rear_garden_06_lfccwl.jpg
 imageGallery:
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1761739532/Rear_garden_06_lfccwl.jpg
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1761739719/Courtyard_06_nnrozh.jpg
