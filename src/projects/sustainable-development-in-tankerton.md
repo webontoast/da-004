@@ -3,7 +3,12 @@ layout: layouts/project.njk
 title: Sustainable Development in Tankerton
 projectDesc: New life for a much-loved house by the sea.
 featuredImage:
-  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1727447588/Architect%20Whitstable%20Tankerton.jpg
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1761739602/Sea_front_09_eof1mj.jpg
+imageGallery:
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1761739532/Rear_garden_06_lfccwl.jpg
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1761739719/Courtyard_06_nnrozh.jpg
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1761739560/Rear_roofs_02_yb37wy.jpg
+  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1761739757/Sea_front_8_vla06u.jpg
 date: 2025-10-29T11:57:19.833Z
 ---
 Our project to fully renovate and extend a detached family house in Tankerton, in Kent is now complete.
