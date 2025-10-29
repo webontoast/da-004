@@ -20,7 +20,7 @@ Our client wanted to increase the size of the existing detached single story hou
 
 Recent changes in the building regulations have resulted in the requirement for increased levels of insulation in walls, floors and roofs, which is a good thing and we worked closely with the main contractor and the approved inspector for building control to make sure that we delivered the most sustainable project that we could. 
 
-There are many different types of external wall and roof constructions in the project and each type required a separate analysis and design to ensure that the amount of insulation and the location of the insulation within the construction was correct.
+There are many different types of external wall and roof constructions in this project and each type required a separate analysis and design to ensure that the amount of insulation and the location of the insulation within the construction was correct.
 
 
 
