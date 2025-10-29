@@ -1,7 +1,7 @@
 ---
 layout: layouts/project.njk
 title: Sustainable Development in Tankerton
-projectDesc: New life for a much loved house by the sea.
+projectDesc: New life for a much-loved house by the sea.
 featuredImage:
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1727447588/Architect%20Whitstable%20Tankerton.jpg
 date: 2025-10-29T11:57:19.833Z
