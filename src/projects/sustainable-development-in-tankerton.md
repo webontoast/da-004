@@ -8,7 +8,6 @@ featuredImage:
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1761739602/Sea_front_09_eof1mj.jpg
 imageGallery:
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1761739532/Rear_garden_06_lfccwl.jpg
-  - https://res.cloudinary.com/dvzwcttpm/image/upload/v1761740694/garden_design_ogl6sg.jpg
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1761739719/Courtyard_06_nnrozh.jpg
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1761739560/Rear_roofs_02_yb37wy.jpg
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1761740701/interior_01_fbw2hm.jpg
