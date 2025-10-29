@@ -2,6 +2,8 @@
 layout: layouts/project.njk
 title: Sustainable Development in Tankerton
 projectDesc: New life for a much-loved house by the sea.
+tags:
+  - Houses
 featuredImage:
   - https://res.cloudinary.com/dvzwcttpm/image/upload/v1761739602/Sea_front_09_eof1mj.jpg
 imageGallery:
