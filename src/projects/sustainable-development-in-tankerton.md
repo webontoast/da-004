@@ -36,7 +36,15 @@ We worked very closely with our clients on this project to develop the design an
 The design and construction team on this project were:
 
 Architects – Douglas Architects Limited
+
+
 Structural Engineer – ABC House and Extensions Calculation Limited
+
+
 Approved Inspectors for Building Control – Vantage Building Control
+
+
 Landscape Design – The Garden Creative
+
+
 Main Contractor – ECN Building Services Limited
